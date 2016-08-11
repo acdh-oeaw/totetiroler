@@ -1,5 +1,6 @@
 {% extends "webpage/base.html" %}
 {% load staticfiles %}
+{% load webpage_extras %}
 {% block Titel %} Imprint {% endblock %}
 {% block content %}
 <div class="container">
@@ -21,7 +22,7 @@
                 <p>
                     Die Österreichische Akademie der Wissenschaften (ÖAW) hat den gesetzlichen Auftrag, die Wissenschaft in jeder Hinsicht zu fördern. Als Gelehrtengesellschaft pflegt die ÖAW den Diskurs und die Zusammenarbeit der Wissenschaft mit Öffentlichkeit, Politik und Wirtschaft. <br/>
                     Das Austrian Centre for Digital Humanities (ACDH) ist ein Institut der ÖAW, das mit dem Ziel gegründet wurde, digitale Methoden und Ansätze in den geisteswissenschaftlichen Disziplinen zu fördern. Das ACDH unterstützt digitale Forschung in vielfältiger Weise.<br/>
-                    {{ metadata.purpose_de }}
+                    {% projects_metadata 'purpose_de' %}
                     
                 </p>
                 <h2>Vertretungsbefugte Organe:</h2>
@@ -34,7 +35,7 @@
                 </p>
                 <h2>Grundlegende Richtung:</h2>
                 <p>
-                    {{ metadata.purpose_de }}
+                    {% projects_metadata 'purpose_de' %}
                 </p>
                 <h2>Haftungsausschluss:</h2>
                 <p>
@@ -71,7 +72,7 @@
                 <p>
                     The Austrian Academy of Sciences (OEAW) has the legal duty to support the sciences and humanities in every respect. As a learned society, the OEAW fosters discourse and cooperation between science and society, politics and economy.<br/>
                     The Austrian Centre for Digital Humanities (ACDH) is an OEAW institute founded with the goal to support digital methods in arts and humanities disciplines. The ACDH supports digital research in manifold ways.<br/>
-                    {{ metadata.purpose_en}}
+                    {% projects_metadata 'purpose_en' %}
                 </p>
                 <h2>Signing power:</h2>
                 <p>
@@ -82,7 +83,7 @@
                 </p>
                 <h2>Main aim:</h2>
                 <p>
-                    {{ metadata.purpose_en}}
+                    {% projects_metadata 'purpose_en' %}
                 </p>
                 <h2>Disclaimer:</h2>
                 <p>
