@@ -31,6 +31,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'webpage',
     'account',
+    'places',
+    'persons',
 ]
 
 CRISPY_TEMPLATE_PACK = "bootstrap3"
