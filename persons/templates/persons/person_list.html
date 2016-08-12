@@ -1,0 +1,6 @@
+{% extends "webpage/base.html" %}
+{% block content %}
+{% for x in object_list %}
+<li>{{ x.name }}</li>
+{% endfor %}
+{% endblock %}

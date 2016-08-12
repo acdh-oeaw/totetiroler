@@ -1,0 +1,88 @@
+{% extends "webpage/base.html" %}
+{% load staticfiles %}
+{% block scriptHeader %}<!--leafletjs -->
+    <link rel="stylesheet" href="{% static 'webpage/libraries/leaflet/leaflet.css' %}"/></link>
+    <script src="{% static 'webpage/libraries/leaflet/leaflet.js' %}"></script>
+        <style>
+            #map { height: 500px; }
+        </style>
+{% endblock %}
+{% block content %}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h2>{{ object.name }}, {{ object.vorname }}</h2>
+    </div>
+        <div class="panel panel-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <table class="table table-bordered table-hover">
+                        <tr>
+                            <th>geboren in</th>
+                            <td><a href="{% url 'places:place_edit' pk=object.geburtsort.id %}">{{ object.geburtsort }}</a> ({{ object.geburtsort.landgericht }})</td>
+                        </tr>
+                        <tr>
+                            <th>gestorben in</th>
+                            <td><a href="{% url 'places:place_edit' pk=object.sterbeort.id %}">{{ object.sterbeort }}</a> ({{ object.sterbeort.landgericht }})</td>
+                        </tr>
+                        <tr>
+                            <th>gestorben am</th>
+                            <td>{{ object.todesjahr}} - {{ object.todesmonat }} - {{ object.todestag }}</td>
+                        </tr>
+                        <tr>
+                            <th>Alter</th>
+                            <td>{{ object.alter }}</td>
+                        <tr>
+                            <th>Todesursache </th>
+                            <td>{{ object.todesart }}</td>
+                        </tr>
+                        <tr>
+                            <th>Beruf</th>
+                            <td>{{ object.beruf|title }} ({{ object.beruf_original}})</td>
+                        </tr>
+                        <tr>
+                            <th>Anmerkung </th>
+                            <td>{{ object.anmerkung }}</td>
+                        </tr>
+                        <tr>
+                            <th>Quelle </th>
+                            <td>{{ object.quelle }}</td>
+                        </tr>
+                        <tr>
+                            <th>Kramer Index</th>
+                            <td>{{ object.kramer_index }}</td>
+                        </tr>
+                    </table>
+                </div>
+                <div>
+                    <div id="map"></div>
+                </div>
+            </div>
+        </div>
+
+
+
+<script type="text/javascript">
+    $( document ).ready(function() {
+        var map = L.map('map').setView([48.69096, 9.14062], 5);
+
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox.light',
+        accessToken: 'pk.eyJ1Ijoic2VubmllcmVyIiwiYSI6ImNpbHk1YWV0bDAwZnB2dW01d2l1Y3phdmkifQ.OljQLEhqeAygai2y6VoSwQ'
+        }).addTo(map);
+
+        {% if object.geburtsort.lat %}
+        L.marker([{{ object.geburtsort.lat }}, {{ object.geburtsort.lng }}])
+        .addTo(map)
+        .bindPopup("<h3> {{object.geburtsort.name}}</h3><table class='table table-striped'> <tr> <td>Landgericht: </td> <td>{{ object.geburtsort.landgericht }}</td> </tr><tr> <td>Gefallene aus diesem Ort </td> <td><a href='#?name=&institution__name={{object.geburtsort.name}}'>{{ object.geburtsort.name }}</a></td> </tr> <tr> <td>Gefallene aus diesem Landgericht </td> <td><a href='#?name=&institution__name={{object.geburtsort.landgericht}}'>{{ object.geburtsort.landgericht }}</a></td> </tr> </table>");
+        {% endif %}
+        {% if object.sterbeort.lat %}
+        L.marker([{{ object.sterbeort.lat }}, {{ object.sterbeort.lng }}])
+        .addTo(map)
+        .bindPopup("<h3> {{object.sterbeort.name}}</h3><table class='table table-striped'> <tr> <td>Landgericht: </td> <td>{{ object.sterbeort.landgericht }}</td> </tr><tr> <td>In diesem Ort Gefallen </td> <td><a href='#?name=&institution__name={{object.sterbeort.name}}'>{{ object.sterbeort.name }}</a></td> </tr> <tr> <td>In diesem Landgericht gefallen </td> <td><a href='#?name=&institution__name={{object.sterbeort.landgericht}}'>{{ object.sterbeort.landgericht }}</a></td> </tr> </table>");
+        {% endif %}
+        });
+</script>
+{% endblock %}
