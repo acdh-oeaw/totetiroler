@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'places',
     'persons',
     'browsing',
+    'charts',
 ]
 
 CRISPY_TEMPLATE_PACK = "bootstrap3"
