@@ -29,13 +29,21 @@ INSTALLED_APPS = [
     'django_tables2',
     'crispy_forms',
     'rest_framework',
+    'django_spaghetti',
     'webpage',
     'account',
     'places',
     'persons',
+    'browsing',
 ]
 
 CRISPY_TEMPLATE_PACK = "bootstrap3"
+
+SPAGHETTI_SAUCE = {
+    'apps': ['persons', 'places'],
+    'show_fields': False,
+    'exclude': {'auth': ['user']}
+}
 
 MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
