@@ -7,7 +7,7 @@ from .models import Place, AlternativeName
 class PlaceForm(forms.ModelForm):
     class Meta:
         model = Place
-        fields = ['name', 'alternative_name', 'geonames_id', 'lat', 'lng']
+        fields = ['name', 'alternative_name', 'landgericht', 'geonames_id', 'lat', 'lng']
 
     def __init__(self, *args, **kwargs):
         super(PlaceForm, self).__init__(*args, **kwargs)

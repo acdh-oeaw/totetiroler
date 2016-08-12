@@ -1,0 +1,970 @@
+1000,Waldner,Alois,,1809,NULL,NULL,,NULL,bauer,Telfs__Ranggen,unknown__unbekannt,vermisst
+1001,Seelos,Anton,,1809,4,11,,NULL,handwerker,Telfs__Reith,Innsbruck__Berg Isel,erschossen
+1002,Keil,Johann ,,1809,4,11,,NULL,bauer,Telfs__Oberhofen,Innsbruck__Berg Isel,nahkampf
+1003,Praxmarer,Anton,,1809,4,11,,NULL,handwerker,Telfs__Zirl,Innsbruck__Berg Isel,erschossen
+1004,Egger,Andrä,,1809,4,11,,NULL,bauer,Telfs__Oberperfuß,Innsbruck__Berg Isel,erschossen
+1005,Stubenböck,Peter,28,1809,5,4,,NULL,bauer,Telfs__Telfs,Innsbruck__Berg Isel,wunde
+1006,Gapp,Johann,,1809,6,15,,NULL,bauer,Telfs__Pettnau,Telfs__Pettnau,wunde
+1007,Trenkwalder,Josef,,1809,8,9,,NULL,handwerker,Telfs__Oberhofen,Telfs__Oberhofen,erschossen
+1008,Reitmayr,Jakob,,1809,8,9,,NULL,bauer,Telfs__Flaurling,Telfs__Flaurling,nahkampf
+1009,Schönherr,Georg,,1809,8,9,,NULL,bauer,Telfs__Flaurling,Telfs__Flaurling,erschossen
+1010,Kirchmayr,Franz,,1809,8,9,,NULL,bauer,Telfs__Pfaffenhofen,Telfs__Pfaffenhofen,erschossen
+1011,Grünauer,Josef,,1809,8,9,,NULL,bauer,Telfs__Inzing,unknown__Hatting,erschossen
+1012,Reindl,Josef,,1809,4,11,,NULL,bauer,Telfs__Leutasch,Innsbruck__Berg Isel,gefang.
+1013,Neuner,Josef,,1809,NULL,NULL,,NULL,bauer,Telfs__Telfs,unknown__Scharnitz,erschossen
+1014,Neuner,Josef,,1809,NULL,NULL,,NULL,bauer,Telfs__Telfs,unknown__Scharnitz,erschossen
+1015,Schöpf,Matthias,,1809,4,11,,NULL,bauer,Telfs__Leutasch,Innsbruck__Berg Isel,gefang.
+1016,Pfefferle,Johann,,1809,4,11,,NULL,bauer,Telfs__Leutasch,Innsbruck__Berg Isel,gefang.
+1023,Raffel,Jakob,38,1809,5,31,,NULL,unbekannt,Telfs__Telfs,Innsbruck__Berg Isel,wunde
+1024,Graßmayr,Michael,,1809,4,13,,NULL,bauer,Silz__Silz,Innsbruck__Berg Isel,erschossen
+1025,Klotz,Christian,,1809,4,13,,NULL,bauer,Silz__Silz,Innsbruck__Berg Isel,erschossen
+1029,Schober,Vinzenz,,1809,NULL,NULL,,NULL,bauer,Silz__Frohnhausen,Innsbruck__Berg Isel,erschossen
+1030,Mader,Alexander,,1809,NULL,NULL,,NULL,bauer,Silz__Barwies,unknown__Telfeser Innbrücke,erschossen
+1044,Stigger,Joachim,,1809,NULL,NULL,,NULL,bauer,Silz__Riedern,Innsbruck__Berg Isel,erschossen
+1045,Maister,Johann,,1809,NULL,NULL,,NULL,bauer,Silz__Sautens,Innsbruck__Berg Isel,erschossen
+1046,Grießer,Josef,,1809,NULL,NULL,,NULL,bauer,Silz__Habichen,Innsbruck__Berg Isel,erschossen
+1047,Neurauter,Liborius,,1809,NULL,NULL,,NULL,bauer,Silz__auf Au,Innsbruck__Berg Isel,erschossen
+1048,Plattner,Josef,,1809,NULL,NULL,,NULL,bauer,Silz__Habichen,Innsbruck__Berg Isel,erschossen
+1049,Auer,Peter,,1809,NULL,NULL,,NULL,arbeiter,Silz__Längenfeld,Silz__Silz,erschossen
+1050,Gstrein,Johann,,1809,NULL,NULL,,NULL,bauer,Silz__Gurgl,Kastelruth__Völs,erschossen
+1052a,Gstrein,Peter,,1809,NULL,NULL,,NULL,bauer,Silz__Vent,Innsbruck__Berg Isel,erschossen
+1054,Stigger,Abraham ,36,1809,4,13,,NULL,bauer,Silz__Haiming,Innsbruck__Berg Isel,wunde
+1055,Graßmayr,Michael,,1809,4,13,,NULL,bauer,Silz__Ötz,Innsbruck__Berg Isel,wunde
+1062,Zoller,Anton,49,1809,11,1,,NULL,handwerker,Imst__Imst,Innsbruck__Berg Isel,gefallen
+1063,Berktoll,Alois,26,1809,10,24,,NULL,handwerker,Imst__Imst,Innsbruck__Berg Isel,sonstig.
+1064,Mennel,Ignaz,42,1809,11,1,,NULL,handwerker,Imst__Imst,Telfs__Leutasch,gefallen
+1065,Plattner,Isidor,33,1809,8,12,,NULL,bauer,Imst__Arzl bei Imst,Innsbruck__Berg Isel,erschossen
+1066,Urban,Meinrad,53,1809,8,13,,NULL,bauer,Imst__Imst,Innsbruck__Berg Isel,erschossen
+1067,Lambacher,Kaspar,28,1809,8,13,,NULL,bauer,Imst__Imst,Innsbruck__Berg Isel,erschossen
+1068,Höllrigl,Johann,33,1809,8,14,,NULL,bauer,Imst__Imst,Imst__Imst,gefallen
+1069,Auer,Peter,31,1809,8,2,,NULL,bauer,Imst__Pitzthal,Silz__Silz,gefallen
+1070,Rauch,Jakob,20,1809,11,3,,NULL,bauer,Imst__Pitzthal,Innsbruck__Berg Isel,erschossen
+1071,Guem,Wendelin,33,1809,7,2,,NULL,handwerker,Imst__Wenns,unknown__bei Kochl in Bayern,erschossen
+1072,Weber,Josef,33,1809,8,11,,NULL,bauer,Imst__Wenns,Innsbruck__Berg Isel,erschossen
+1073,Gstrein,Josef,19,1809,11,13,,NULL,bauer,Imst__Wenns,Innsbruck__Berg Isel,erschossen
+1074,Schranz,Jakob,23,1809,11,13,,NULL,bauer,Imst__Wenns,Innsbruck__Berg Isel,erschossen
+1075,Grießer,Franz,23,1809,11,13,,NULL,bauer,Imst__Wenns,Innsbruck__Berg Isel,erschossen
+1076a,Gabl,Andrä,,1809,11,1,,NULL,bauer,Landeck__Sauers,Innsbruck__Berg Isel,erschossen
+1077b,Rudiger,Andrä,,1809,11,1,,NULL,handwerker,Landeck__Zams,Imst__Imst,gefallen
+1078,Schweninger,Josef,,1809,11,1,,NULL,bauer,Landeck__Zams,Imst__Imst,gefallen
+1079,Pfeifer,Johann,,1809,11,1,,NULL,handwerker,Landeck__Zams,Imst__Imst,gefallen
+1080c,Recheis,Franz,,1809,11,1,,NULL,handwerker,Landeck__Zams,Innsbruck__Berg Isel,erschossen
+1084,Falch,Josef,,1809,6,9,,NULL,bauer,Landeck__Fließ,unknown__Murnau in Bayern,erschossen
+1085,Stuemer,Martin,,1809,6,9,,NULL,bauer,Landeck__Fließ,unknown__Murnau in Bayern,erschossen
+1086,Widerin,Thomas,,1809,8,8,,NULL,bauer,Landeck__Fließ,unknown__Pontlazbrücke,erschossen
+1087,Zobl,Alois,,1809,11,11,,NULL,bauer,Landeck__Landeck,Imst__Imst,erschossen
+1088,Mayrhofer,Matthias,,1809,9,13,,NULL,unbekannt,Landeck__Perfuchs,unknown__Bludenz,wunde
+1089f,Grawieser,Franz,,1809,10,4,,NULL,bauer,Landeck__Grins,unknown__Bruggen,erschossen
+1090g,Mungenast,Johann ,,1809,11,25,,NULL,arbeiter,Landeck__Pians,unknown__Terlan,erschossen
+1091h,Handle,Anton,,1809,11,24,,NULL,handwerker,Landeck__Kappl,unknown__Giggl nächst Tobadill,erschossen
+1102,Pfeifer,Alois,,1809,11,24,,NULL,bauer,Ischgl__Innerversal /Ischgl,unknown__Patznaun,erschossen
+1106,Strobl,Andrä,,1809,6,9,,NULL,bauer,Ried__Serfaus,unknown__Murnau in Bayern,gefallen
+1107,Thurner,Josef,,1809,6,9,,NULL,handwerker,Ried__Ried,unknown__Mittenwald in Bayern,gefallen
+1108,Patschneider,Johann,,1809,8,9,,NULL,bauer,Ried__Ried,unknown__Pontlatzerbrücke,gefallen
+1109,Lechleitner,Anton,,1809,8,9,,NULL,handwerker,Ried__Fendels,unknown__Pontlatzerbrücke,gefallen
+1110,Sailer,Michael,,1809,8,9,,NULL,handwerker,Ried__Kauns,unknown__Pontlatzerbrücke,gefallen
+1111,Gfall,Micheal,,1809,8,9,,NULL,handwerker,Ried__Kauns,unknown__Pontlatzerbrücke,wunde
+1112,Rauch,Franz,,1809,8,9,,NULL,bauer,Ried__Kaunserberg,unknown__Pontlatzerbrücke,gefallen
+1113,Eckhart,Josef,,1809,8,9,,NULL,bauer,Ried__Kaunserberg,unknown__Pontlatzerbrücke,gefallen
+1114,Penz,Wolfgang,,1809,11,1,,NULL,arbeiter,Ried__Fiss,Innsbruck__Berg Isel,wunde
+1133,Theny,Josef,,1809,8,13,,NULL,unbekannt,Nauders u. Pfunds__Haid,Innsbruck__Berg Isel,gefallen
+1135,Auer,Eustach ,,1809,8,13,,NULL,handwerker,Nauders u. Pfunds__Graun,Innsbruck__Berg Isel,erschossen
+1136,Plangger,Anselm,,1809,8,13,,NULL,handwerker,Nauders u. Pfunds__Graun,Innsbruck__Berg Isel,erschossen
+1137,Lechthaler,Johann,,1809,8,13,,NULL,bauer,Nauders u. Pfunds__Reschen,Innsbruck__Berg Isel,erschossen
+1138,Stecher,Florian,,1809,8,15,,NULL,bauer,Nauders u. Pfunds__Langtaufers,Innsbruck__Berg Isel,erschossen
+1139,Fidal,Josef,,1809,8,15,,NULL,bauer,Nauders u. Pfunds__Spinn,Innsbruck__Berg Isel,wunde
+1140,Lechthaler,Alois,,1809,8,13,,NULL,beamter,Nauders u. Pfunds__Nauders ,Innsbruck__Berg Isel,erschossen
+1141,Kuppelwieser,Johann,,1809,8,13,,NULL,handwerker,Nauders u. Pfunds__Nauders ,Innsbruck__Berg Isel,erschossen
+1142,Lechthaler,Josef,,1809,11,1,,NULL,bauer,Nauders u. Pfunds__Kompatsch,Innsbruck__Berg Isel,gefallen
+1143,Pali,Pius,,1809,11,20,,NULL,handwerker,Nauders u. Pfunds__Nauders ,unknown__Tösens,gefallen
+1144,Folie,Amadeus ,,1809,11,20,,NULL,unbekannt,Nauders u. Pfunds__Nauders ,unknown__Tösens,wunde
+1145,Mark,Johann,,1809,11,20,,NULL,unbekannt,Nauders u. Pfunds__Noggels ,unknown__Tösens,gefang.
+1146,Mark,Alois,,1809,11,20,,NULL,unbekannt,Nauders u. Pfunds__Gstalda,unknown__Tösens,gefang.
+1147,Waldhart,Martin,40,1809,10,30,,NULL,handwerker,Nauders u. Pfunds__Pfunds,Innsbruck__Berg Isel,wunde
+1148,Pinzger,Eustach ,50,1809,10,30,,NULL,arbeiter,Nauders u. Pfunds__Pfunds,Innsbruck__Berg Isel,wunde
+1178,Linser,Anton,,1809,11,1,,NULL,soldat,Glurns__Mals,Innsbruck__Berg Isel,erschossen
+1179,Gaisser,Josef,,1809,11,24,,NULL,bauer,Glurns__Matsch,unknown__Terlan,erschossen
+1180,Thöni,Johann,,1809,NULL,NULL,,NULL,handwerker,Glurns__Laatsch,Innsbruck__Berg Isel,wunde
+1181,Ruepp,Veit,,1809,8,15,,NULL,bauer,Glurns__Schluderns,Innsbruck__Berg Isel,erschossen
+1182,Tuscher,Peter,,1809,11,15,,NULL,handwerker,Glurns__Schluderns,unknown__Tannheim,wunde
+1183,Wallnöfer,Simon,,1809,NULL,NULL,,NULL,bauer,Glurns__Lichtenberg,Innsbruck__Berg Isel,wunde
+1184,Bernhart,Anton,,1809,8,13,,NULL,handwerker,Glurns__Schleis,Innsbruck__Berg Isel,erschossen
+1185,Nutzinger,Ignaz,,1810,1,21,,NULL,arbeiter,Glurns__Mals,Bozen__Bozen,exekution
+1188,Schmid,Konrad,,1809,5,18,,NULL,handwerker,Ehrenberg__Aschau,unknown__Brücke zu Wertach,nahkampf
+1189,Nauß,Franz,,1809,5,18,,NULL,handwerker,Ehrenberg__Aschau,unknown__Brücke zu Wertach,nahkampf
+1190,Köpfle,Anton,,1809,5,18,,NULL,bauer,Ehrenberg__Aschau,unknown__Brücke zu Wertach,nahkampf
+1191,Zangerle,Josef,,1809,8,15,,NULL,bauer,Ehrenberg__Aschau,unknown__Steinach bei Pfonten (Füssen),nahkampf
+1192,Bader,Anton,,1809,8,15,,NULL,bauer,Ehrenberg__Vils,unknown__Steinach bei Pfonten (Füssen),erschossen
+1193,Kapeller,Josef,40,1809,8,12,,NULL,bauer,Ehrenberg__Loog,"unknown__Jochberg, LG Sonthofen",erschossen
+1194,Hörbst,Anton,29,1809,11,15,,NULL,bauer,Ehrenberg__Berg,unknown__Tannheim,erschossen
+1195,Boß,Dominikus,,1809,4,17,,NULL,bauer,Ehrenberg__Breitenwang,unknown__Ulrichsbrücke,vermisst
+1196,Singer,Johann ,,1809,6,18,,NULL,handwerker,Ehrenberg__Reutte,"unknown__Murnau, Bayern",erschossen
+1197,Bernzott,Jakob,,1809,8,11,,NULL,bauer,Ehrenberg__Haldensee,"unknown__Joch, Sonthofen",erschossen
+1198,Kapler,Maximilian,,1809,8,11,,NULL,bauer,Ehrenberg__Loog,"unknown__Joch, Sonthofen",erschossen
+1199,Rief,Alois,,1809,9,27,,NULL,bauer,Ehrenberg__Haldensee,"unknown__Hintelang, Sonthofen",erschossen
+1200,Schratz,Franz,,1809,10,26,,NULL,bauer,Ehrenberg__Neßlwängle,"unknown__Hintelang, Sonthofen",wunde
+1201,Hosp,Johann,,1809,9,10,,NULL,bauer,Ehrenberg__Biechlbach,Ehrenberg__Reutte,wunde
+1202,Bader,Anton,,1809,9,11,,NULL,bauer,Ehrenberg__Vils,Ehrenberg__Reutte,wunde
+1203,Tuschin,,,1809,10,18,,NULL,unbekannt,Ehrenberg__Vinschgau,Ehrenberg__Reutte,wunde
+1204,Rusch,Anton,,1809,11,7,,NULL,unbekannt,Ehrenberg__Imst,Ehrenberg__Reutte,wunde
+1205,Seelos,Anton,20,1809,4,13,,NULL,unbekannt,Ehrenberg__Reutte,Innsbruck__Berg Isel,gefallen
+1227,Raich,Josef,,1809,11,16,,NULL,arbeiter,Meran__Meran,Meran__Meran,erschossen
+1269,Gobmayr,Josef,,1809,4,11,,NULL,arbeiter,Sterzing__Mareith,Sterzing__Sterzing,nahkampf
+1270,Bauer,Johann,35,1809,4,11,,NULL,arbeiter,Sterzing__Sterzing,unknown__Sprechenstein,erschossen
+1271,Heisler,Jakob,,1809,4,12,,NULL,handwerker,Sterzing__Sterzing,Sterzing__Sterzing,erschossen
+1272,Kinbacher,Joh. ,,1809,NULL,NULL,,NULL,handwerker,Sterzing__Sterzing,Sterzing__Sterzing,erschossen
+1273,Wallnöfner,Franz,,1809,NULL,NULL,,NULL,handwerker,Sterzing__Sterzing,Sterzing__Sterzing,mord
+1274,Silbernagel,Anton,,1809,NULL,NULL,,NULL,handwerker,Sterzing__Sterzing,Sterzing__Sterzing,erschossen
+1275,Schuster,Josef,,1809,NULL,NULL,,NULL,bauer,Sterzing__Gigglberg,Mieders__Gossensaß,erschossen
+1276,Wieser,Josef,,1809,NULL,NULL,,NULL,sonst.,Sterzing__Gossensaß,Mieders__Gossensaß,erschossen
+1277,Kern,Albuin,,1809,NULL,NULL,,NULL,bauer,Sterzing__Tschöfs,Sterzing__Sterzing,erschossen
+1278,Rainer,Stephan,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Jaufenthal,Sterzing__Sterzing,erschossen
+1279,Kuen,Peter,,1809,4,12,,NULL,arbeiter,Sterzing__Gasteig,Sterzing__Sterzing,erschossen
+1280,Radl,Jakob,,1809,4,12,,NULL,arbeiter,Sterzing__Ried,Sterzing__Sterzing,erschossen
+1281,Gasser,Matthias,,1809,4,11,,NULL,arbeiter,Sterzing__Trens,Mieders__Trens,erschossen
+1282,Weger,Johann,,1809,4,11,,NULL,handwerker,Sterzing__Telfs,Sterzing__Sterzing,wunde
+1283,Inderst,Thomas,,1809,4,11,,NULL,bauer,Sterzing__Riednaun,Mieders__Trens,erschossen
+1284,Wurzer,Johann,,1809,NULL,NULL,,NULL,handwerker,Sterzing__Mareith,Meran__Passeier,erschossen
+1285,Kofler,Johann,,1809,NULL,NULL,,NULL,handwerker,Sterzing__Mareith,Meran__Passeier,erschossen
+1286,Bodner,Bartlme,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Ratschings,Meran__Passeier,erschossen
+1287,Heiseler,N.,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Ratschings,Meran__Passeier,erschossen
+1288,Eisendle,Johann,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Tschöfs,Meran__Passeier,erschossen
+1289,Firler,Anton,,1809,8,7,,NULL,arbeiter,Sterzing__Mauls,Meran__Passeier,erschossen
+1290,Überegger,Georg,45,1809,4,12,,NULL,bauer,Sterzing__Mauls,Meran__Passeier,erschossen
+1291,Krautgartner,Matthias,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Mauls,Rattenberg__Oberau,erschossen
+1292,Wieser,Josef,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Egg,unknown__Sachsenburg,erschossen
+1293,Walter,Josef,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Ried,unknown__Pustertal,erschossen
+1294,Markhart,Josef,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Pflersch,Innsbruck__Berg Isel,erschossen
+1295,Saxel,Josef,,1809,NULL,NULL,,NULL,arbeiter,Sterzing__Pfulters,Innsbruck__Berg Isel,erschossen
+1296,Bircher,Bartlme,19,1809,6,28,,NULL,bauer,Sterzing__Trens,Innsbruck__Berg Isel,wunde
+1297,Laner,Franz,,1809,5,29,,NULL,handwerker,Sterzing__Mauls,Innsbruck__Berg Isel,erschossen
+1298,Trattner,Franz,,1809,NULL,NULL,,NULL,handwerker,Sterzing__Mauls,Innsbruck__Berg Isel,erschossen
+1299,Lechner,Josef,26,1809,11,7,,NULL,handwerker,Sterzing__Riednaun,Innsbruck__Berg Isel,erschossen
+1300,Trenkwaldner,Josef,30,1809,5,25,,NULL,handwerker,Sterzing__Riednaun,Innsbruck__Berg Isel,erschossen
+1304,Blasbichler,Joh.,,1809,12,6,,NULL,bauer,Brixen__Albeins,Brixen__Albeins,erschossen
+1305,Kircher,Johann,,1809,12,23,,NULL,bauer,Brixen__St. Leonhard,Hofpgarten__Brixen,exekution
+1306,Haller,Johann,,1809,12,23,,NULL,arbeiter,Brixen__Neustift,Hofpgarten__Brixen,exekution
+1307,Reichegger,Peter,,1809,8,10,,NULL,bauer,Brixen__Elvas,unknown__Tils,erschossen
+1308,Mayr,Peter,,1810,2,20,,NULL,wirt,Brixen__in der Mahr,Bozen__Bozen,exekution
+1309,Gargitter,Georg,,1809,7,30,,NULL,handwerker,Brixen__Lüsen,unknown__Unterau,erschossen
+1310,Pichler,Bartlmä,,1809,12,23,,NULL,bauer,Brixen__Milland,Hofpgarten__Brixen,exekution
+1311,Gasser,Josef,,1809,8,NULL,,NULL,arbeiter,Brixen__Schalders,unknown__Mittenwald,erschossen
+1312,Stampf,Michael,,1809,11,8,,NULL,sonst.,Brixen__Brixen,Hofpgarten__Brixen,nahkampf
+1313,Wieser,Johann,,1809,11,8,,NULL,sonst.,Brixen__Brixen,unknown__Trient,nahkampf
+1314,Zöll,Josef,,1809,8,5,,NULL,arbeiter,Brixen__Brixen,unknown__ober Vahrn,nahkampf
+1315,Nitz,Johann,,1809,11,8,,NULL,unbekannt,Brixen__Brixen,unknown__Mühlbacher Klause,nahkampf
+1316,Fischer,Georg,,1809,12,6,,NULL,bauer,Brixen__Pinzagen,Brixen__Pinzagen,erschossen
+1317,Rifeser,Georg,,1809,7,30,,NULL,bauer,Brixen__unbekannt,unknown__Unterau,erschossen
+1318,Schrott,Franz,,1809,11,6,,NULL,handwerker,Brixen__Albeins,unknown__Hinterbachgart,erschossen
+1319,Edenhauser,Georg,41,1809,11,9,,NULL,arbeiter,Brixen__Neustift,Mieders__Neustift,erschossen
+1320,Fischer,Peter,,1809,11,9,,NULL,arbeiter,Brixen__Pinzagen,unknown__Unterau,erschossen
+1321,Vordersteiger,Matthias,,1809,8,5,,NULL,arbeiter,Brixen__Ras,unknown__Unterau,erschossen
+1322,Obexer,Johann,18,1809,8,4,,NULL,arbeiter,Brixen__Natz,Gossensaß__Mauls,erschossen
+1323,Völkl,Georg,,1809,8,8,,NULL,arbeiter,Brixen__Elvas,Rattenberg__Oberau,erschossen
+1324,Knochenegger,Peter,,1809,8,8,,NULL,arbeiter,Brixen__Elvas,Rattenberg__Oberau,erschossen
+1325,Hasler,Josef ,25,1809,5,25,,NULL,arbeiter,Brixen__Natz,Innsbruck__Berg Isel,erschossen
+1326,Holzer,Matthias,,1809,12,4,,NULL,arbeiter,Brixen__Natz,Brixen__Kranebitten,erschossen
+1327,Überbacher,Joh.,84,1809,12,5,,NULL,bauer,Brixen__Natz,Brixen__Natz,erschossen
+1328,Sargant,Johann,,1809,12,6,,NULL,arbeiter,Brixen__Elvas,Brixen__Kranebitten,erschossen
+1329,Gasser,Johann,,1809,12,6,,NULL,bauer,Brixen__Ras,Brixen__Kranebitten,erschossen
+1330,Unterweger,Michael,,1809,12,6,,NULL,unbekannt,Brixen__Kranebitten,Brixen__Kranebitten,erschossen
+1334,Firler,Johann,,1809,5,29,,NULL,handwerker,Mühlbach__Mühlbach,Innsbruck__Berg Isel,kanone
+1335,Ranzl,Johann,,1809,6,24,,NULL,bauer,Mühlbach__Kiens,Innsbruck__Berg Isel,wunde
+1336,Moser,Georg,,1809,8,5,,NULL,handwerker,Mühlbach__Mühlbach,Rattenberg__Oberau,gefallen
+1337,Lanz,Johann,,1809,8,13,,NULL,bauer,Mühlbach__Schabs,Rattenberg__Oberau,gefallen
+1338,Huber,Johann,,1809,8,14,,NULL,bauer,Mühlbach__Weitenthal,unknown__Aicha,gefallen
+1339,Augschell,Georg,,1809,10,11,,NULL,beamter,Mühlbach__Villanders,unknown__Sachsenburg,friendlyfire
+1340,Ellemunter,Johann,,1809,11,3,,NULL,arbeiter,Mühlbach__Mühlbach,unknown__Mühlbacher Klause,gefallen
+1341,Obergolser,Thomas,,1809,8,13,,NULL,bauer,Mühlbach__Weitenthal,Innsbruck__Berg Isel,wunde
+1342,Punter,Georg,,1809,12,9,,NULL,bauer,Mühlbach__Rodeneck,Mühlbach__Rodeneck,wunde
+1343,Mayr,Johann,,1809,12,9,,NULL,bauer,Mühlbach__Rodeneck,Mühlbach__Rodeneck,erschossen
+1352,Hassler,Peter,23,1809,5,25,,NULL,arbeiter,Bruneck__Stegen,Innsbruck__Berg Isel,wunde
+1354,Winkler,Andreas,,1809,7,NULL,,NULL,bauer,Bruneck__Aufhofen ,unknown__Obertilliach,erschossen
+1355,Aichner,Josef,,1809,8,5,,NULL,handwerker,Bruneck__Lorenzen,Rattenberg__Oberau,gefallen
+1356,Mair,Josef,,1809,8,5,,NULL,handwerker,Bruneck__Pfalzen,Rattenberg__Oberau,gefallen
+1357,Auer,Johann,,1809,8,5,,NULL,bauer,Bruneck__Terenten,Rattenberg__Oberau,gefallen
+1358,Sartor,Franz,,1811,NULL,31,,NULL,sonst.,Bruneck__Lorenzen,unknown__Paris,gefang.
+1359,Lackner,Josef,,1809,11,5,,NULL,handwerker,Bruneck__Pfalzen,Bruneck__Pfalzen,mord
+1360,Schifferegger,Matthias,,1809,11,5,,NULL,arbeiter,Bruneck__Ellen,Bruneck__Kiens,erschossen
+1361,Tanzer,Matthias,,1809,11,6,,NULL,bauer,Bruneck__St. Sigmund,Bruneck__St. Sigmund,erschossen
+1362,Bassler,Michael,61,1809,11,14,,NULL,sonst.,Bruneck__Aufhofen ,Bruneck__Aufhofen ,mord
+1363,Winkler,Michael,58,1809,11,5,,NULL,arbeiter,Bruneck__Aufhofen ,Bruneck__Aufhofen ,mord
+1364,Laimegger,Jakob,55,1809,10,26,,NULL,arbeiter,Bruneck__Kiens,Bruneck__Kiens,wunde
+1365,Nocker,Jakob,,1809,11,30,,NULL,bauer,Bruneck__Platten,Bruneck__Oberwielenbach,kanone
+1366,Müller,Bartlme,,1809,12,1,,NULL,arbeiter,Bruneck__St. Georgen,Bruneck__Lorenzen,gefallen
+1367,Hellweger,Bartlme,,1809,12,2,,NULL,arbeiter,Bruneck__Lorenzen,unknown__Bruneck,gefallen
+1368,Taschler,Johann,,1809,12,2,,NULL,handwerker,Bruneck__Lorenzen,unknown__Bruneck,wunde
+1369,Steiner,Peter ,,1809,12,2,,NULL,handwerker,Bruneck__Niederwielen.,unknown__Niederolang,wunde
+1370,Graber,Franz,,1809,12,2,,NULL,handwerker,Bruneck__Niederwielen.,unknown__Niederolang,wunde
+1371,Oberparleitner,Michael,,1809,12,2,,NULL,handwerker,Bruneck__Ober-Rasen,unknown__Bruneck,gefallen
+1372,Seyr,Johann,,1809,12,2,,NULL,bauer,Bruneck__Ober-Rasen,unknown__Bruneck,gefallen
+1373,Aschmüller,Paul,,1809,12,2,,NULL,arbeiter,Bruneck__Oberwielenbach,unknown__Niederolang,wunde
+1374,Gruber,Andreas,,1809,12,2,,NULL,handwerker,Bruneck__Ober-Rasen,unknown__Niederolang,wunde
+1375,Taschler,Jakob,,1809,12,2,,NULL,arbeiter,Bruneck__Pfalzen,unknown__Bruneck,gefallen
+1376,Hernegger,Josef,,1809,12,2,,NULL,bauer,Bruneck__Platten,unknown__Bruneck,wunde
+1377,Lerchner,Peter ,,1809,12,2,,NULL,bauer,Bruneck__Pfalzen,Bruneck__Pfalzen,wunde
+1378,Wolfsgruber,Johann,,1809,12,2,,NULL,geistlicher,Bruneck__Ameten ,Taufers__Gais,wunde
+1379,Bergmeister,Joh.,,1809,12,2,,NULL,bauer,Bruneck__Tesselberg,unknown__Bruneck,gefallen
+1380,Steiner,Johann,,1811,NULL,11,,NULL,wirt,Bruneck__Reischach,unknown__Civita vecchia (Spital),gefang.
+1381,Alpegger,Peter,,1809,8,5,,NULL,bauer,Bruneck__Gözenberg,unknown__Unterau,wunde
+1382,Innerbichler,Matthias,,1809,12,7,,NULL,bauer,Taufers__St. Jakob,unknown__Bruneck,gefallen
+1383,Gruber,Josef,,1809,12,8,,NULL,bauer,Taufers__St. Jakob,unknown__Bruneck,gefallen
+1384,Untersteiner,Alois,,1809,12,7,,NULL,arbeiter,Taufers__St. Jakob,unknown__Bruneck,gefallen
+1385,Mölgg,Jakob,,1809,12,7,,NULL,bauer,Taufers__St. Jakob,unknown__Bruneck,gefallen
+1386,Tasser,Josef ,,1809,12,7,,NULL,arbeiter,Taufers__St. Jakob,unknown__Bruneck,gefallen
+1387,Leiter,Johann,,1809,12,7,,NULL,handwerker,Taufers__St. Johann,unknown__Bruneck,gefallen
+1388,Hofer,Thomas ,,1809,12,2,,NULL,arbeiter,Taufers__St. Johann,unknown__Bruneck,gefallen
+1389,Stegger,Sebast.,,1809,12,2,,NULL,arbeiter,Taufers__St. Johann,unknown__Bruneck,gefallen
+1390,Mairzupirch,Joh.,,1809,12,2,,NULL,sonst.,Taufers__Luttach,unknown__Bruneck,gefallen
+1391,Auer,Urban,,1809,11,6,,NULL,sonst.,Taufers__Winkel,unknown__Bruneck,gefallen
+1392,Früh,Matthias,,1809,12,12,,NULL,bauer,Taufers__Moritzen,unknown__Bruneck,gefallen
+1393,Kirchler,Johann,,1809,12,2,,NULL,arbeiter,Taufers__Ahornach,unknown__Bruneck,gefallen
+1394,Winding,Franz,,1809,12,2,,NULL,bauer,Taufers__Sand,unknown__Bruneck,gefallen
+1395,Winding,Bartlme,,1809,12,3,,NULL,bauer,Taufers__Sand,unknown__Bruneck,gefallen
+1396,Schöllberger,Georg,,1809,12,4,,NULL,arbeiter,Taufers__Sand,unknown__Bruneck,gefallen
+1397,Niederkofler,Jakob,,1809,12,5,,NULL,sonst.,Taufers__Mühlen,unknown__Bruneck,gefallen
+1398,Kloker,Franz,,1809,12,6,,NULL,arbeiter,Taufers__Moritzen,unknown__Bruneck,gefallen
+1399,Früh,Georg,,1809,12,7,,NULL,bauer,Taufers__Moritzen,unknown__Bruneck,gefallen
+1400,Auer,Silvester,,1809,12,8,,NULL,arbeiter,Taufers__Ahornach,unknown__Bruneck,gefallen
+1401,Gostner,Sebastian,17,1809,12,9,,NULL,arbeiter,Taufers__Mühlen,unknown__Bruneck,exekution
+1402,Warscher,Anton,,1810,1,10,,NULL,handwerker,Taufers__Aßling,unknown__Taufers (Sand),exekution
+1403,Egger,Georg,,1809,12,2,,NULL,söldner,Taufers__Mühlbach,unknown__Bruneck,wunde
+1404,Reiner,Thomas,,1809,12,2,,NULL,arbeiter,Taufers__Tesselberg,unknown__Bruneck,wunde
+1405,Auer,Josef,,1809,12,2,,NULL,bauer,Taufers__Rein,unknown__Bruneck,wunde
+1406,Aschbacher,Josef,,1809,12,2,,NULL,handwerker,Taufers__Gais,unknown__Bruneck,gefallen
+1407,Pallhuber,Georg,,1809,12,2,,NULL,bauer,Taufers__Antholz,unknown__Bruneck,gefallen
+1408,Pallhuber,Peter,,1809,12,2,,NULL,bauer,Taufers__Antholz,unknown__Bruneck,gefallen
+1409,Lercher,Josef,,1809,12,2,,NULL,bauer,Taufers__Gais,unknown__Bruneck,gefallen
+1410,Wolfsgruber,Michael,,1809,12,2,,NULL,arbeiter,Taufers__Gais,unknown__Bruneck,gefallen
+1411,Wolfsgruber,Johann,,1809,12,2,,NULL,geistlicher,Taufers__Ametten,unknown__Bruneck,wunde
+1415,Niederrainer,Johann,,1809,12,2,,NULL,arbeiter,Welsberg__Oberrasen,unknown__Bruneck,gefallen
+1416,Langkofler,Martin,,1809,12,2,,NULL,arbeiter,Welsberg__Oberrasen,unknown__Bruneck,gefallen
+1417,Taschler,Peter,,1809,12,2,,NULL,arbeiter,Welsberg__Oberwielenbach,unknown__Bruneck,wunde
+1418,Gaßmayr,Josef,,1809,12,2,,NULL,beamter,Welsberg__Olang,unknown__Bruneck,gefallen
+1419,Bodner,Peter,,1809,12,2,,NULL,arbeiter,Welsberg__Olang,unknown__Bruneck,gefallen
+1420,Niedermayr,Peter ,,1809,12,2,,NULL,arbeiter,Welsberg__Olang,unknown__Bruneck,gefallen
+1421,Mayr,Johann,,1809,12,2,,NULL,arbeiter,Welsberg__Oberrasen,unknown__Bruneck,gefallen
+1422,Schöpfer,Georg,,1809,12,2,,NULL,bauer,Welsberg__Mitterolang,unknown__Bruneck,gefallen
+1423,Kofler,Peter,,1809,12,2,,NULL,wirt,Welsberg__Oberolang,unknown__Bruneck,gefallen
+1424,Neunhäuser,Johann,,1809,12,2,,NULL,bauer,Welsberg__Oberolang,unknown__Bruneck,gefallen
+1425,Neunhäuser,Jakob,,1809,12,2,,NULL,bauer,Welsberg__Oberolang,unknown__Bruneck,gefallen
+1426,Unterstolz,Josef,,1809,12,2,,NULL,arbeiter,Welsberg__Antholz,unknown__Bruneck,gefallen
+1427,Ploner,Martin,,1809,12,2,,NULL,arbeiter,Welsberg__Olang,unknown__Bruneck,gefallen
+1428,Moser,Johann ,,1809,8,10,,NULL,bauer,Welsberg__Niederdorf,unknown__Leisach,gefallen
+1429,Pitterle,Matthias,,1809,8,10,,NULL,arbeiter,Welsberg__Niederdorf,unknown__Leisach,gefallen
+1430,Müller,Thomas,,1809,8,8,,NULL,bauer,Welsberg__Prags,unknown__Aquabona,gefallen
+1431,Schönhuber,Johann,,1809,12,1,,NULL,bauer,Welsberg__Prags,unknown__Lienzer Klause,gefallen
+1432,Stephaner,Andreas,,1809,12,1,,NULL,arbeiter,Welsberg__Niederdorf,unknown__Lienzer Klause,gefallen
+1433,Jäger,Johann,,1810,1,5,,NULL,bauer,Welsberg__Niederdorf,Welsberg__Niederdorf,exekution
+1434,Amhof,Nikolaus,,1810,1,9,,NULL,wirt,Welsberg__Pichl,Welsberg__Niederdorf,exekution
+1435,Lercher,Anton,,1809,NULL,NULL,,NULL,handwerker,Welsberg__Welsberg,unknown__Mantua,gefang.
+1436,Schrafl,Franz,,1809,6,16,,NULL,handwerker,Welsberg__Toblach,unknown__Belluno,gefallen
+1437,Pitterle,Johann ,,1809,8,8,,NULL,bauer,Welsberg__Eggerberg,unknown__Aquabona,gefallen
+1438,Pichler,Michael,,1809,8,10,,NULL,bauer,Welsberg__Toblach,unknown__Leisach,gefallen
+1439,Durnwalder,Bartlmä,46,1810,1,5,,NULL,bauer,Welsberg__Toblach,Welsberg__Toblach,exekution
+1440,Rieder,Michael,55,1809,8,8,,NULL,arbeiter,Welsberg__Antholz,unknown__Lienzer Klause,wunde
+1441,Antenhofer,Joh.,43,1809,12,2,,NULL,bauer,Welsberg__Antholz,unknown__Bruneck,gefallen
+1442,Knoll,Josef,41,1809,12,2,,NULL,arbeiter,Welsberg__Antholz,unknown__Bruneck,gefallen
+1443,Meitzger,Georg,42,1809,12,2,,NULL,handwerker,Welsberg__Antholz,unknown__Bruneck,gefallen
+1444,Pallhuber,Georg,42,1809,12,2,,NULL,bauer,Welsberg__Antholz,unknown__Bruneck,gefallen
+1445,Passler,Simon,,1809,12,2,,NULL,bauer,Welsberg__Antholz,unknown__Bruneck,gefallen
+1446,Pallhuber,Peter,27,1809,12,2,,NULL,handwerker,Welsberg__Antholz,unknown__Bruneck,gefallen
+1447,Leigeb,Josef,56,1810,1,8,,NULL,bauer,Welsberg__Antholz,unknown__Windschnur,exekution
+1448,Mayr,Josef,28,1809,12,2,,NULL,bauer,Welsberg__Olang,unknown__Bruneck,gefallen
+1449,Sigmayr,Peter,34,1810,1,14,,NULL,wirt,Welsberg__Mitterolang,Welsberg__Mitterolang,exekution
+1450,Ellemund,Josef,,1809,12,1,,NULL,handwerker,Welsberg__Niederrasen,unknown__Bruneck,gefallen
+1451,Egger,Josef,,1809,12,2,,NULL,arbeiter,Welsberg__Niederrasen,unknown__Bruneck,gefallen
+1452,Obermayr,Jakob,,1809,12,2,,NULL,handwerker,Welsberg__Niederrasen,unknown__Bruneck,gefallen
+1453,Lercher,Josef,,1809,12,2,,NULL,arbeiter,Welsberg__Tesselberg,unknown__Bruneck,gefallen
+1456,Dallago,Andreas,,1809,8,10,,NULL,bauer,Ampezzo__Zuel,Ampezzo__Zuel,gefallen
+1457,Colli,Fulgenz,,1809,8,10,,NULL,bauer,Ampezzo__Coll,Ampezzo__Zuel,gefallen
+1458,Coll,Simon,,1809,8,10,,NULL,bauer,Ampezzo__Coll,Ampezzo__Zuel,gefallen
+1459,Michieli,Luigi,,1809,8,10,,NULL,bauer,Ampezzo__Campo,Ampezzo__Zuel,gefallen
+1460,Ghedina,Johann Anton,,1809,8,10,,NULL,bauer,Ampezzo__Cortina,Ampezzo__Zuel,wunde
+1461,Appollonio,Peter,,1809,9,29,,NULL,bauer,Ampezzo__Cortina,unknown__Chiapuzza,gefallen
+1462,Alverà,Franz,,1809,9,29,,NULL,bauer,Ampezzo__Cortina,unknown__Chiapuzza,gefallen
+1463,Suppiei,Anton,,1809,9,29,,NULL,unbekannt,Ampezzo__Alverà,unknown__Chiapuzza,gefang.
+1465,Gruber,Kassian,,1809,12,10,,NULL,bauer,Sillian__Tessenberg,unknown__Lienzer Klause,nahkampf
+1466,Hofer,Thomas ,,1809,12,10,,NULL,bauer,Sillian__Kartitsch,unknown__Lienzer Klause,gefang.
+1467,Huber,Johann,,1809,12,14,,NULL,bauer,Sillian__Abfaltern,unknown__Lienzer Klause,nahkampf
+1468,Mayer,Andreas,,1809,12,1,,NULL,arbeiter,Sillian__Strassen,unknown__Lienzer Klause,erschossen
+1469,Pargger,Peter,,1809,12,10,,NULL,bauer,Sillian__Winnebach,unknown__Lienzer Klause,wunde
+1470,Pircher,Anton,,1809,12,10,,NULL,bauer,Sillian__Tessenberg,unknown__Lienzer Klause,erschossen
+1471,Sommer,Alois,,1809,12,10,,NULL,handwerker,Sillian__unbekannt,unknown__Lienzer Klause,gefang.
+1472,Stephinger,Andreas,,1809,12,2,,NULL,arbeiter,Sillian__Abfaltersbach,unknown__Lienzer Klause,erschossen
+1473,Tschurtschenthaler,Simon,,1809,12,2,,NULL,bauer,Sillian__Sexten,unknown__Lienzer Klause,gefang.
+1474,Wieser,Josef,,1809,12,2,,NULL,bauer,Sillian__Kartitsch,unknown__Lienzer Klause,gefang.
+1475,Wieser,Matthäus,,1809,12,2,,NULL,bauer,Sillian__Kartitsch,unknown__Lienzer Klause,gefang.
+1476,Wieser,Oswald,,1809,12,2,,NULL,arbeiter,Sillian__Abfaltersbach,unknown__Lienzer Klause,erschossen
+1477,Achammer,Josef,,1810,1,4,,NULL,handwerker,Sillian__Sillian ,unknown__Sillian,exekution
+1478,Bachmann,Georg,,1810,1,4,,NULL,handwerker,Sillian__Innichen,Sillian__Innichen,exekution
+1479,Gasteiger,Josef,,1810,1,4,,NULL,handwerker,Sillian__Panzendorf,unknown__Sillian,exekution
+1480,Gutwenger,Franz,,1810,1,4,,NULL,bauer,Sillian__Tessenberg,unknown__Lienzer Klause,gefang.
+1481,Jeller,Johann,,1809,12,10,,NULL,bauer,Sillian__Tessenberg,unknown__Lienzer Klause,gefang.
+1482,Bachmann,Josef,35,1810,1,4,,NULL,bauer,Sillian__Innichen,Sillian__Innichen,exekution
+1483,Kühbacher,Michael,,1809,12,4,,NULL,bauer,Sillian__Innichberg,unknown__Lienzer Klause,gefallen
+1484,Lusser,Kaspar,,1809,8,5,,NULL,bauer,Sillian__Tessenberg,Lienz__Amlach,gefang.
+1485,Melhofer,Josef,24,1810,1,4,,NULL,handwerker,Sillian__Innichen,Sillian__Innichen,exekution
+1486,Miller,Josef,,1809,12,10,,NULL,bauer,Sillian__Arnbach,unknown__Lienzer Klause,wunde
+1487,Schmadl,Jakob,21,1810,1,4,,NULL,handwerker,Sillian__Innichen,Sillian__Innichen,exekution
+1488,Walder,Paul,,1809,12,10,,NULL,bauer,Sillian__Winnebach,unknown__Lienzer Klause,gefang.
+1489,Wurzer,Georg,,1810,1,4,,NULL,bauer,Sillian__Untertassenbach,unknown__Sillian,exekution
+1498,Bachlechner,Benedikt,,1809,8,3,,NULL,arbeiter,Lienz__Lienz,Lienz__Lienz,erschossen
+1499,Grißmann,Josef,,1809,8,3,,NULL,handwerker,Lienz__Lienz,Lienz__Lienz,erschossen
+1500,Klocker,Peter,,1809,8,3,,NULL,arbeiter,Lienz__Lavant,Lienz__Lienz,erschossen
+1501,Jester,Paul,62,1809,8,3,,NULL,bauer,Lienz__Gwabl,Lienz__Lienz,erschossen
+1502,Unterlechner,Josef,39,1809,8,3,,NULL,handwerker,Lienz__Alkus,Lienz__Lienz,erschossen
+1503,Gruber,Andreas,36,1809,8,3,,NULL,bauer,Lienz__Gwabl,Lienz__Lienz,erschossen
+1504,Pichler,Veit,36,1809,8,3,,NULL,sonst.,Lienz__Patriasdorf,Lienz__Lienz,exekution
+1505,Pedarnig,Michael,34,1809,8,3,,NULL,sonst.,Lienz__Patriasdorf,Lienz__Lienz,exekution
+1506,Tabernig,Jakob,,1809,8,4,,NULL,bauer,Lienz__Debantthal,Lienz__Lienz,mord
+1507,Zimmerleitner,Martin,,1809,8,8,,NULL,arbeiter,Lienz__Bannberg ,unknown__Leisach,kanone
+1508,Winklmair,Georg,56,1809,8,8,,NULL,handwerker,Lienz__Amlach,Lienz__Amlach,erschossen
+1509,Mair,Josef,43,1809,8,8,,NULL,bauer,Lienz__Stribach,Lienz__Stribach,erschossen
+1510,Stampfer,Peter,43,1809,8,8,,NULL,bauer,Lienz__Göriach,Lienz__Göriach,erschossen
+1511,Stanglechner,Alois,,1809,8,8,,NULL,arbeiter,Lienz__Oberaßling,Lienz__Lienz,erschossen
+1512,Mitterhauser,Stefan,,1809,8,8,,NULL,arbeiter,Lienz__Ried,unknown__Patraisdorf,gefallen
+1513,Zeiner,Bartlme ,,1809,10,19,,NULL,bauer,Lienz__Gainberg,unknown__Sachsenburg,erschossen
+1514,Wießgrill,Josef,,1809,10,18,,NULL,arbeiter,Lienz__Dölsach,unknown__Sachsenburg,erschossen
+1515,Tabernigg,Matthias,,1809,12,8,,NULL,bauer,Lienz__Alkus,unknown__Lienzer Klause,erschossen
+1516,Klocker,Johann,,1809,11,NULL,,NULL,handwerker,Lienz__Tristach,Steinach__Steinach,gefallen
+1517,Oblasser,Johann,47,1809,12,29,,NULL,wirt,Lienz__Ainet,Lienz__Ainet,exekution
+1518,Warscher,Anton,,1809,1,NULL,,NULL,bauer,Lienz__Kosten,unknown__Taufers,exekution
+1519,Mattersberger,Urban,,1809,12,2,,NULL,sonst.,Lienz__Ainet,unknown__Bruneck,wunde
+1520,Niederlintner,Thomas,,1809,NULL,NULL,,NULL,handwerker,Windischmatrei__Windischmatrei,unknown__Regulati,erschossen
+1521,Lablasser,Lorenz,40,1809,12,8,,NULL,bauer,Windischmatrei__Windischmatrei,Lienz__Ainet,erschossen
+1522,Kuchlmayr,Vinzenz,41,1809,12,8,,NULL,bauer,Windischmatrei__Virgen,Lienz__Ainet,erschossen
+1523,Weißkopf,Josef,61,1809,12,8,,NULL,bauer,Windischmatrei__Virgen,Lienz__Ainet,erschossen
+1525,Lottersberger,,,1809,NULL,NULL,,NULL,bauer,Windischmatrei__Hopfgarten,unknown__Luggau,erschossen
+1526,Pall,Josef,,1809,NULL,NULL,,NULL,bauer,Windischmatrei__Kals,Lienz__Lienz,erschossen
+1527,Weber,Johann Andreas,31,1809,12,28,,NULL,handwerker,Windischmatrei__Windischmatrei,Windischmatrei__Windischmatrei,exekution
+1528,Obersamer,Franz Vinzenz,26,1809,12,28,,NULL,handwerker,Windischmatrei__Windischmatrei,Windischmatrei__Windischmatrei,exekution
+1529,Sigmund,Damszen,62,1810,2,2,,NULL,geistlicher,Windischmatrei__Virgen,Lienz__Lienz,exekution
+1530,Unterkirchner,Martin,30,1810,2,2,,NULL,geistlicher,Windischmatrei__Virgen,Lienz__Lienz,exekution
+1531,Frandl,Franz,31,1809,12,28,,NULL,bauer,Windischmatrei__Mittendorf (Virgen),Windischmatrei__Virgen,exekution
+1532,Daxer,Josef ,45,1809,12,30,,NULL,arbeiter,Windischmatrei__Zotten,unknown__Hopfgarten (Defereggen),exekution
+1533,Groder,Stefan,30,1809,12,30,,NULL,wirt,Windischmatrei__Kals,Windischmatrei__Kals,exekution
+1534,Schuen,Josef,19,1809,5,29,,NULL,bauer,Enneberg__Abtei,Innsbruck__Berg Isel,erschossen
+1535,Schuen,Johann Matthias,,1809,6,16,,NULL,bauer,Enneberg__Abtei od. St. Vigil,unknown__Belluno,erschossen
+1536,Kastlunger,Franz,,1809,7,16,,NULL,bauer,Enneberg__St. Vigil,Innsbruck__Berg Isel,wunde
+1537,Agreiter,Johann Matthias,,1809,8,17,,NULL,arbeiter,Enneberg__St. Martin,unknown__Aquabona,erschossen
+1538,Lovisch,Peter,,1809,8,20,,NULL,arbeiter,Enneberg__Zwischenwasser,Windischmatrei__Windischmatrei,erschossen
+1539,Ploner,Johann,,1809,9,3,,NULL,bauer,Enneberg__Bach ,unknown__Bruneck,erschossen
+1540,Ploner,Johann,,1809,9,15,,NULL,bauer,Enneberg__Bach ,unknown__Bruneck,erschossen
+1556,Schuster,Jakob,,1809,4,11,,NULL,bauer,Gossensaß__Pontigl,unknown__unbekannt,erschossen
+1557,Weißer,Josef ,,1809,4,11,,NULL,bauer,Gossensaß__unbekannt,unknown__unbekannt,mord
+1558,Ueberegger,Georg,78,1809,4,12,,NULL,bauer,Gossensaß__Mauls,unknown__unbekannt,mord
+1559,Mayrin,Kreszentia,2,1809,4,11,,NULL,unbekannt,Gossensaß__unbekannt,unknown__unbekannt,mord
+1560,Pfitscher,Ferdinand,63,1809,8,6,,NULL,bauer,Gossensaß__Gossensaß (laut Sterebuch),unknown__unbekannt,mord
+1571,Goldiner,Josef,45,1809,4,11,,NULL,bauer,Brixen__Vahrn,Innsbruck__Berg Isel,wunde
+1584,Peterer,Josef,32,1809,7,27,,NULL,arbeiter,Ainet__Alkus,unknown__unbekannt,wunde
+1585,Bauernfeind,Josef,40,1809,12,8,,NULL,bauer,Ainet__Virgen,unknown__unbekannt,gefallen
+1586,Stainer,Matthias,45,1809,12,8,,NULL,sonst.,Ainet__Unterlaßnig,unknown__unbekannt,gefallen
+1610,Roherer,Thomas,,1809,4,11,,NULL,bauer,Passeier__Thal,Sterzing__Sterzing,gefallen
+1611,Zipperle,Johann ,,1809,5,25,,NULL,arbeiter,Passeier__Ried,Innsbruck__Berg Isel,gefallen
+1612,Platter,Michael,,1809,5,25,,NULL,arbeiter,Passeier__Platt,Innsbruck__Berg Isel,gefallen
+1613,Hofer,Simon,30,1809,5,25,,NULL,arbeiter,Passeier__Stuls,Innsbruck__Berg Isel,gefallen
+1614,Raffl,Johann,,1809,5,25,,NULL,arbeiter,Passeier__Prantach,Innsbruck__Berg Isel,gefallen
+1615,Pirpamer,Goerg,,1809,5,29,,NULL,arbeiter,Passeier__Ried,Innsbruck__Berg Isel,gefallen
+1616,Platter,Josef,,1809,5,NULL,,NULL,arbeiter,Passeier__Flon,unknown__Volders,vermisst
+1617,Pixner,Johann,,1809,8,9,,NULL,bauer,Passeier__Flon,Sterzing__Sterzing,gefallen
+1618,Prünster,Peter ,,1809,8,9,,NULL,arbeiter,Passeier__Ried,Sterzing__Sterzing,gefallen
+1619,Oettl,Franz,,1809,8,9,,NULL,arbeiter,Passeier__Platt,Sterzing__Sterzing,gefallen
+1620,Pflueg,Georg,36,1809,8,14,,NULL,arbeiter,Passeier__St. Leonhard,Sterzing__Sterzing,wunde
+1621,Pirpamer,Johann,,1809,8,11,,NULL,arbeiter,Passeier__Flon,Innsbruck__Berg Isel,gefallen
+1622,Oettl,Johann,20,1809,8,11,,NULL,arbeiter,Passeier__Matatz,Innsbruck__Berg Isel,gefallen
+1623,Prünster,Anton,,1809,8,13,,NULL,arbeiter,Passeier__Ried,Innsbruck__Berg Isel,gefallen
+1624,Winnebacher,Leonhard,,1809,8,13,,NULL,arbeiter,Passeier__Flon,Innsbruck__Berg Isel,gefallen
+1625,Frick,Johann ,,1809,8,13,,NULL,bauer,Passeier__Matatz,Innsbruck__Berg Isel,gefallen
+1626,Auer,Andreas ,,1809,11,1,,NULL,arbeiter,Passeier__Walten,Innsbruck__Berg Isel,gefallen
+1627,Lanthaler,Johann,,1809,11,8,,NULL,bauer,Passeier__Thal,Steinach__Steinach,gefallen
+1628,Marth,Anton ,,1809,11,18,,NULL,bauer,Passeier__Walten,Steinach__Steinach,wunde
+1629,Oettl,Michael,32,1809,11,14,,NULL,handwerker,Passeier__Flon,Meran__Riffian,wunde
+1630,Prünster,Johann,,1809,11,14,,NULL,arbeiter,Passeier__Matatz,Meran__Riffian,wunde
+1631,Gufler,Valentin,,1809,11,16,,NULL,arbeiter,Passeier__Rabenstein,Meran__Meran,gefallen
+1632,Grüner,Michael,,1809,11,16,,NULL,bauer,Passeier__Moos,Meran__Meran,gefallen
+1633,Plattner,Josef,,1809,11,16,,NULL,arbeiter,Passeier__Flon,Meran__Meran,gefallen
+1634,Gufler,Josef,,1809,11,16,,NULL,arbeiter,Passeier__Schathen,Meran__Meran,wunde
+1635,Marth,Johann,,1809,11,16,,NULL,bauer,Passeier__Platt,Meran__Meran,gefallen
+1636,Klotz,Johann,,1809,11,16,,NULL,bauer,Passeier__St. Leonhard,Meran__Meran,gefallen
+1637,Kofler,Johann,,1809,11,16,,NULL,handwerker,Passeier__St. Leonhard,Meran__Meran,gefallen
+1638,Heel,Michael,,1809,11,16,,NULL,bauer,Passeier__Ried,Meran__Meran,gefallen
+1639,Pult,Johann,46,1809,11,16,,NULL,bauer,Passeier__Ried,Meran__Meran,gefallen
+1640,Prünster,Blasius,,1809,11,16,,NULL,arbeiter,Passeier__Ried,Meran__Meran,gefallen
+1641,Almberger,Johann,,1809,11,16,,NULL,arbeiter,Passeier__St. Martin,Meran__Meran,gefallen
+1642,Mangger,Michael,,1809,11,16,,NULL,arbeiter,Passeier__Moos,Meran__Meran,gefallen
+1643,Mosmayr,Anton,50,1809,11,16,,NULL,bauer,Passeier__Moos,Meran__Meran,gefallen
+1644,Pfitscher,Johann,25,1809,11,16,,NULL,arbeiter,Passeier__Stuls,Meran__Meran,gefallen
+1645,Ennemoser,Johann,,1809,11,18,,NULL,arbeiter,Passeier__Rabenstein,Passeier__St. Leonhard,gefallen
+1646,Stoffner,Johann,,1809,11,18,,NULL,bauer,Passeier__Platt,Passeier__St. Leonhard,gefallen
+1647,Gegele,Jakob,,1809,11,18,,NULL,handwerker,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1648,Raffl,Josef,,1809,11,18,,NULL,arbeiter,Passeier__Prantach,Passeier__St. Leonhard,gefallen
+1649,Lanthaler,Anton,,1809,11,18,,NULL,handwerker,Passeier__St. Martin,Passeier__St. Leonhard,gefallen
+1650,Auer,Johann,,1809,11,18,,NULL,arbeiter,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1651,Wilhelm,Andreas,,1809,11,18,,NULL,arbeiter,Passeier__Walten,Passeier__St. Leonhard,gefallen
+1652,Gufler,Anton,77,1809,11,18,,NULL,arbeiter,Passeier__Thal,Passeier__St. Leonhard,gefallen
+1653,Prünster,Josef,,1809,11,18,,NULL,arbeiter,Passeier__Matatz,Passeier__St. Leonhard,gefallen
+1654,Platter,Georg,,1809,11,19,,NULL,handwerker,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1655,Kruselburger,Michael,,1809,11,24,,NULL,handwerker,Passeier__St. Martin,Passeier__St. Leonhard,wunde
+1656,Prünster,Peter ,,1809,11,19,,NULL,arbeiter,Passeier__St. Martin,Passeier__St. Leonhard,gefallen
+1657,Haller,Michael,,1809,11,19,,NULL,arbeiter,Passeier__Walten,Passeier__St. Leonhard,gefallen
+1658,Tschöll,Johann,40,1809,11,19,,NULL,arbeiter,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1659,Hofer,Michael,30,1809,11,21,,NULL,arbeiter,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1660,Platter,Michael,38,1809,11,21,,NULL,arbeiter,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1661,Platter,Franz,30,1809,11,21,,NULL,arbeiter,Passeier__St. Leonhard,Passeier__St. Leonhard,gefallen
+1662,Haußer,Josef,,1809,11,30,,NULL,arbeiter,Passeier__St. Leonhard,Passeier__St. Leonhard,wunde
+1663,Prünster,Leonhard,,1809,11,21,,NULL,bauer,Passeier__Matatz,Passeier__St. Leonhard,gefallen
+1664,Pfitscher,Balthasar,,1809,11,21,,NULL,bauer,Passeier__Walten,Passeier__St. Leonhard,gefallen
+1665,Danler,Josef,,1809,11,22,,NULL,arbeiter,Passeier__Moos,Passeier__St. Leonhard,wunde
+1666,Kofler,Josef,,1809,11,24,,NULL,arbeiter,Passeier__Pfelders,Passeier__St. Leonhard,wunde
+1667,"Hofer,",Andreas v. ,42,1810,2,20,,NULL,wirt,Passeier__am Sand ,unknown__Mantua,exekution
+1679,"Stachelburg,",Johann v.,,1809,5,25,,NULL,sonst.,Meran__Meran,Innsbruck__Berg Isel,erschossen
+1680,Jäger,Anton,,1809,5,25,,NULL,bauer,Meran__Zenoberg,Innsbruck__Berg Isel,erschossen
+1681,Leiter,Johann,40,1809,5,29,,NULL,sonst.,Meran__Meran,Innsbruck__Berg Isel,wunde
+1682,Fieg,Johann,,1809,5,29,,NULL,handwerker,Meran__Meran,Innsbruck__Berg Isel,erschossen
+1683,Rattinger,Johann,,1809,7,15,,NULL,handwerker,Meran__i. Bayern,Innsbruck__Berg Isel,wunde
+1684,Prünster,Josef,,1809,NULL,NULL,,NULL,bauer,Meran__Meran,Meran__Meran,erschossen
+1685,Kofler,Martin,,1809,5,25,,NULL,bauer,Meran__Obermais,Innsbruck__Berg Isel,erschossen
+1686,Walzl,Valentin,,1809,5,25,,NULL,arbeiter,Meran__Obermais,Innsbruck__Berg Isel,erschossen
+1687,Trenkwalder,Joh.,,1809,5,29,,NULL,bauer,Meran__Obermais,Innsbruck__Berg Isel,erschossen
+1688,Nocker,Johann,,1809,5,29,,NULL,bauer,Meran__Obermais,Innsbruck__Berg Isel,wunde
+1689,Schnitzer,Sebastian,,1809,8,8,,NULL,arbeiter,Meran__Obermais,Sterzing__Telfs,erschossen
+1690,Mazze,Josef v. ,,1809,8,23,,NULL,sonst.,Meran__Obermais,Sterzing__Sterzing,gefallen
+1691,Geiger,Johann,,1809,10,23,,NULL,wirt,Meran__Untermais,Meran__Untermais,wunde
+1692,Prunner,Johann,,1809,10,16,,NULL,arbeiter,Meran__Untermais,Meran__Untermais,nahkampf
+1693,Gartner,Josef,,1809,11,16,,NULL,arbeiter,Meran__Untermais,Meran__Mais,mord
+1694,Kröß,Sebastian,25,1809,11,20,,NULL,bauer,Meran__Hagen,unknown__Jenesien,wunde
+1695,Innerhofer,Johann,,1809,11,20,,NULL,bauer,Meran__Obermais,unknown__Jenesien,mord
+1696,Spitaler,Johann,,1809,11,20,,NULL,bauer,Meran__Hagen,unknown__Jenesien,nahkampf
+1697,Zagler,Michael,,1809,11,20,,NULL,arbeiter,Meran__Hagen,unknown__Jenesien,wunde
+1698,Flarer,Sebastian,25,1809,8,13,,NULL,bauer,Meran__Schönna,Innsbruck__Berg Isel,erschossen
+1699,Unterthurner,Joh,40,1809,10,22,,NULL,bauer,Meran__Schönna,unknown__Pressano,erschossen
+1700,Kaufmann,Anton,33,1809,11,16,,NULL,bauer,Meran__Schönna,Meran__Meran,erschossen
+1701,Gufler,Georg,31,1809,11,16,,NULL,arbeiter,Meran__Schönna,Meran__Meran,erschossen
+1702,Mayr,Josef,62,1809,11,16,,NULL,bauer,Meran__Schönna,Meran__Meran,erschossen
+1703,Gufler,Sebastian,22,1809,11,16,,NULL,arbeiter,Meran__Schönna,Meran__Meran,erschossen
+1704,Stadler,Johann,42,1809,11,16,,NULL,bauer,Meran__Schönna,Meran__Meran,erschossen
+1705,Gumpold,Michael,18,1809,11,16,,NULL,arbeiter,Meran__Thal,Meran__Meran,erschossen
+1706,Bacher,Georg,,1809,11,16,,NULL,bauer,Meran__Thal,Meran__Meran,erschossen
+1707,Alber,Josef,32,1809,11,16,,NULL,geistlicher,Meran__Schönna,Meran__Meran,wunde
+1708,Laimer,Nikolaus,,1809,8,9,,NULL,bauer,Meran__Kuens,Sterzing__Sterzing,erschossen
+1709,Pircher,Peter ,,1809,11,NULL,,NULL,bauer,Meran__Kuens,Meran__Riffian,erschossen
+1710,Christanell,Valentin,,1809,11,NULL,,NULL,arbeiter,Meran__Mais,Passeier__St. Leonhard,verbrannt
+1711,Hörmann,Johann,36,1809,6,2,,NULL,bauer,Meran__Meran,Steinach__Matrei,erschossen
+1712,Gufler,Blaisus,,1809,8,13,,NULL,arbeiter,Meran__Riffian,Innsbruck__Berg Isel,erschossen
+1713,Götsch,Peter,,1809,NULL,NULL,,NULL,bauer,Meran__Meran,unknown__unbekannt,gefallen
+1714,Heurer,Anton,,1809,NULL,NULL,,NULL,bauer,Meran__Meran,unknown__unbekannt,gefallen
+1715,Pixner,Josef,,1809,11,16,,NULL,bauer,Meran__Meran,Meran__Meran,erschossen
+1716,Pircher,Andrä,,1809,11,16,,NULL,arbeiter,Meran__Meran,Meran__Meran,erschossen
+1717,Kröß,Peter,,1809,11,16,,NULL,arbeiter,Meran__Meran,Meran__Meran,erschossen
+1718,Hofer,Franz,,1809,11,16,,NULL,bauer,Meran__Meran,Meran__Algund,nahkampf
+1719,Hofer,Johann,,1809,11,16,,NULL,sonst.,Meran__Meran,Meran__Gratsch,nahkampf
+1720,Stocker,Johann,,1809,11,16,,NULL,bauer,Meran__Meran,Meran__Meran,mord
+1721,Tersch,Johann,,1809,11,16,,NULL,bauer,Meran__Meran,Meran__Meran,nahkampf
+1722,Pamer,Johann,,1809,11,16,,NULL,bauer,Meran__Meran,Meran__Meran,mord
+1723,Haller,Josef,,1809,11,16,,NULL,bauer,Meran__Meran,Meran__Meran,mord
+1724,Zeisolt,Matthias,,1809,11,16,,NULL,sonst.,Meran__Meran,Meran__Meran,erschossen
+1725,Pamer,Matthias,,1809,11,16,,NULL,sonst.,Meran__Meran,Meran__Meran,erschossen
+1726,Niederhofer,Josef,,1809,11,16,,NULL,arbeiter,Meran__Meran,Meran__Meran,erschossen
+1728,Parth,Melchior,,1809,11,16,,NULL,unbekannt,Meran__Eyrs,Meran__Meran,mord
+1729,Stainer,Matthias,,1809,11,16,,NULL,unbekannt,Meran__Kortsch,Meran__Meran,mord
+1730,Santer,Urban,,1809,11,16,,NULL,unbekannt,Meran__Naturns,Meran__Meran,mord
+1731,Pircher,Johann,,1809,11,16,,NULL,sonst.,Meran__Naturns,Meran__Meran,mord
+1732,Almberger,Johann,,1809,11,16,,NULL,unbekannt,Meran__Algund,Meran__Meran,mord
+1733,Haller,Friedrich,,1809,11,19,,NULL,bauer,Meran__Meran,Passeier__St. Leonhard,erschossen
+1734,Kuen,Franz,36,1809,11,16,,NULL,bauer,Meran__Gratsch,Meran__Meran,erschossen
+1735,Schnitzer,Anton,46,1809,11,16,,NULL,bauer,Meran__Gratsch,Meran__Meran,erschossen
+1736,Thaler,Johann,24,1809,11,21,,NULL,bauer,Meran__Gratsch,Passeier__St. Leonhard,erschossen
+1737,Kleon,Georg,32,1809,11,23,,NULL,arbeiter,Meran__Gratsch,Passeier__St. Leonhard,nahkampf
+1738,Haller,Sebastian,,1811,10,3,,NULL,bauer,Meran__Gratsch,Meran__Meran,wunde
+1739,Waldner,Lorenz,,1810,10,15,,NULL,bauer,Meran__Gratsch,"unknown__Calvi, Corsica",gefang.
+1740,Ladurner,Josef,,1809,8,9,,NULL,bauer,Meran__Algund,Sterzing__Sterzing,erschossen
+1741,Platter,Johann,,1809,8,13,,NULL,bauer,Meran__Algund,Innsbruck__Berg Isel,erschossen
+1742,Haan,Sebastian,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1743,Hinterseeber,Jakob,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1744,Tschöll,Simon,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1745,Ladurner,Johann,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1746,Prantl,Matthias,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1747,Stocker,Jakob,,1809,11,16,,NULL,bauer,Meran__Algund,Meran__Meran,erschossen
+1748,Brunner,Matthias,18,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1749,Lanthaler,Anton,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1750,Oberperfler,Johann,,1809,11,16,,NULL,bauer,Meran__Algund,Meran__Meran,erschossen
+1751,Ladurner,Jakob,,1809,11,16,,NULL,arbeiter,Meran__Algund,Meran__Meran,erschossen
+1752,Thalguter,Peter,,1809,11,20,,NULL,bauer,Meran__Algund,unknown__Jenesien,erschossen
+1753,Plantatscher,Michael,,1809,11,20,,NULL,arbeiter,Meran__Algund,unknown__Jenesien,erschossen
+1754,Pichler,Anton,,1809,11,24,,NULL,arbeiter,Meran__Algund,unknown__Jenesien,erschossen
+1755,Kofler,Thomas,,1809,12,7,,NULL,arbeiter,Meran__Algund,unknown__Jenesien,wunde
+1756,Pichler,Anton,24,1809,11,24,,NULL,arbeiter,Meran__Algund,Meran__Meran,wunde
+1757,Platatscher,Anton,,1812,3,29,,NULL,arbeiter,Meran__Algund,unknown__unbekannt,wunde
+1758,Ladurner,Johann,,1810,6,30,,NULL,arbeiter,Meran__Algund,unknown__unbekannt,wunde
+1759,Gamper,Martin,,1809,8,16,,NULL,handwerker,Meran__Partschins,unknown__Paschberg,wunde
+1760,Mitterhofer,Johann,24,1809,8,20,,NULL,handwerker,Meran__Partschins,Innsbruck__Berg Isel,wunde
+1761,Gstrein,Simon,,1809,11,3,,NULL,bauer,Meran__Partschins,Meran__Meran,wunde
+1762,Gamper,Jakob,,1809,11,16,,NULL,bauer,Meran__Quadrat,Meran__Meran,erschossen
+1763,Verklaier,Jakob,,1809,11,16,,NULL,wirt,Meran__Partschins,Meran__Meran,erschossen
+1764,Torggler,Matthias,,1809,11,16,,NULL,bauer,Meran__Partschins,Meran__Meran,erschossen
+1765,Weiracher,Anton,,1809,11,16,,NULL,arbeiter,Meran__Partschins,Meran__Meran,erschossen
+1766,Pircher,Josef,,1809,11,16,,NULL,bauer,Meran__Partschins,Meran__Meran,erschossen
+1767,Gerstgrasser,Matth.,,1809,11,16,,NULL,arbeiter,Meran__Partschins,Meran__Meran,erschossen
+1768,Wielander,Lorenz,,1809,11,16,,NULL,arbeiter,Meran__Partschins,Meran__Meran,erschossen
+1769,Höfler,Jakob,,1809,11,16,,NULL,arbeiter,Meran__Partschins,Meran__Meran,erschossen
+1770,Schönweger,Josef,,1809,8,1,,NULL,bauer,Meran__Partschins,unknown__Trient,gefang.
+1771,Gasser,Simon,,1809,8,1,,NULL,unbekannt,Meran__Partschins,unknown__Trient,gefang.
+1772,Götsch,Jakob,,1809,8,13,,NULL,arbeiter,Meran__Naturns,Innsbruck__Berg Isel,erschossen
+1773,Schnitzer,Matthias,,1809,11,1,,NULL,bauer,Meran__Naturns,unknown__Halleregg,erschossen
+1774,Pircher,Johann,,1809,11,16,,NULL,bauer,Meran__Naturns,Meran__Meran,erschossen
+1775,Rieper,Sebastian,,1809,11,16,,NULL,arbeiter,Meran__Naturns,Meran__Meran,erschossen
+1776,Hornsteiner,Zeno,,1809,11,16,,NULL,handwerker,Meran__Naturns,Meran__Meran,erschossen
+1777,Weithaler,Franz,,1809,11,16,,NULL,bauer,Meran__Naturns,Meran__Meran,erschossen
+1778,Santer,Johann,,1809,11,16,,NULL,bauer,Meran__Schnals,Meran__Meran,erschossen
+1779,Pircher,Josef,,1809,11,17,,NULL,arbeiter,Meran__Naturns,unknown__Terlan,erschossen
+1780,Zipperle,Michael,,1809,5,29,,NULL,arbeiter,Meran__Vernurer,Innsbruck__Berg Isel,erschossen
+1781,Prünster,Peter ,22,1809,8,9,,NULL,arbeiter,Meran__Riffian,Sterzing__Sterzing,erschossen
+1782,Hanifle,Johann,,1809,11,14,,NULL,bauer,Meran__Vernurer,Meran__Kuens,erschossen
+1783,Regele,Peter,,1809,11,15,,NULL,bauer,Meran__Riffian,Meran__Kuens,erschossen
+1784,Pirpamer,Johann,,1809,11,27,,NULL,bauer,Meran__Riffian,Meran__Riffian,wunde
+1785,Laimer,Johann,32,1809,11,21,,NULL,bauer,Meran__Riffian,Meran__Passeier,erschossen
+1786,Hanifle,Georg,,1809,11,14,,NULL,bauer,Meran__Vernuer,Meran__Kuens,erschossen
+1787,Erb,Martin,38,1809,12,9,,NULL,bauer,Meran__Riffian,Meran__Passeier,wunde
+1788,Prünster,Peter ,,1809,11,19,,NULL,arbeiter,Meran__Passeier,Meran__Passeier,wunde
+1789,Pircher,Peter ,40,1809,11,22,,NULL,bauer,Meran__Kuens,Meran__Riffian,wunde
+1790,Thaler,Johann,,1809,11,22,,NULL,bauer,Meran__Schönna,Meran__Passeier,erschossen
+1791,Mayr,Josef,,1809,11,16,,NULL,bauer,Meran__Schönna,Meran__Schönna,erschossen
+1792,Werner,Johann,33,1809,5,25,,NULL,arbeiter,Meran__Hafling,Innsbruck__Berg Isel,erschossen
+1794,Untermarzoner,Stephan,,1809,8,5,,NULL,bauer,Klausen__Barbian,Rattenberg__Oberau,erschossen
+1795,Klobensteiner,Jakob,,1809,8,5,,NULL,arbeiter,Klausen__Villanders,Rattenberg__Oberau,erschossen
+1796,Klobensteiner,Joh.,,1809,8,5,,NULL,bauer,Klausen__Villanders,Rattenberg__Oberau,erschossen
+1797,Schmalzl,Peter ,,1809,8,5,,NULL,bauer,Klausen__Villanders,Rattenberg__Oberau,erschossen
+1798,Kuenzwalder,Joseg,,1809,8,5,,NULL,arbeiter,Klausen__Villanders,Rattenberg__Oberau,erschossen
+1799,Hofer,Bartlmä,,1809,11,21,,NULL,arbeiter,Klausen__Barbian,Klausen__Villanders,wunde
+1800,Ribeser,Jakob,,1809,8,29,,NULL,bauer,Klausen__Barbian,Klausen__Villanders,wunde
+1802,Anhaus,Matthias,,1809,8,5,,NULL,handwerker,Klausen__Latzfons,Rattenberg__Oberau,vermisst
+1803,Saxalber,Josef,,1809,10,NULL,,NULL,handwerker,Klausen__Latzfons,unknown__Pergine,erschossen
+1804,Padreider,Martin,,1809,11,25,,NULL,bauer,Klausen__Latzfons,unknown__Seeben,erschossen
+1805,Metz,Josef,,1809,11,25,,NULL,bauer,Klausen__Latzfons,unknown__Seeben,erschossen
+1806,Anranter,Anton,,1809,11,25,,NULL,handwerker,Klausen__Latzfons,unknown__Seeben,erschossen
+1810,Mayr,Johann,,1809,5,24,,NULL,bauer,Klausen__Feldthurns,Innsbruck__Berg Isel,erschossen
+1811,Anhaus,Ingenuin,,1809,5,24,,NULL,bauer,Klausen__Feldthurns,Innsbruck__Berg Isel,erschossen
+1812,Brunner,Matthias,,1809,5,24,,NULL,bauer,Klausen__Feldthurns,Innsbruck__Berg Isel,erschossen
+1813,Pupp,Josef,,1809,11,4,,NULL,bauer,Klausen__Feldthurns,Taufers__Mühlbach,erschossen
+1814,Stockner,Josef,,1809,12,6,,NULL,bauer,Klausen__Feldthurns,Hofpgarten__Brixen,erschossen
+1815,Kier,Christian,,1809,12,6,,NULL,bauer,Klausen__Feldthurns,Hofpgarten__Brixen,erschossen
+1816,Planer,Josef,,1809,12,21,,NULL,bauer,Klausen__Feldthurns,Klausen__Feldthurns,wunde
+1817,Riederer,Simon,,1809,12,16,,NULL,bauer,Klausen__Feldthurns,Bozen__Bozen,exekution
+1818,Profanter,Anton,,1809,11,6,,NULL,bauer,Klausen__Villnös,unknown__Unterau,erschossen
+1819,Leitner,Jakob,,1809,8,8,,NULL,arbeiter,Klausen__Villnös,Gossensaß__Mauls,nahkampf
+1820,Strickner,Martin,,1809,8,8,,NULL,handwerker,Klausen__Villnös,Taufers__Mühlbach,erschossen
+1821,Kaneider,Georg,,1809,12,21,,NULL,wirt,Klausen__Villnös,Bozen__Bozen,exekution
+1822,Stockner,Josef,,1809,12,24,,NULL,handwerker,Klausen__Villnös,Bozen__Bozen,wunde
+1823,Frenes,Anton ,,1809,12,24,,NULL,handwerker,Klausen__Kampil,Bozen__Bozen,exekution
+1826,Pedratscher,Anton,,1809,NULL,NULL,,NULL,arbeiter,Klausen__Gufidaun,Innsbruck__Berg Isel,wunde
+1834,Mayr,Simon,,1809,4,30,,NULL,arbeiter,Kaltern__Girlan,unknown__Alle Laste,erschossen
+1835,Stadler,Jakob,,1809,6,9,,NULL,bauer,Kaltern__Kaltern,unknown__Alle Laste,erschossen
+1836,Larcher,Josef,,1809,6,9,,NULL,bauer,Kaltern__Kaltern,unknown__Alle Laste,erschossen
+1837,Inama,Josef,,1809,10,2,,NULL,bauer,Kaltern__Kaltern,unknown__Lavis,erschossen
+1838,Frey,Anton,,1809,11,1,,NULL,bauer,Kaltern__Kaltern,unknown__Terlago,erschossen
+1839,Herrnhofer,Peter,,1810,4,14,,NULL,arbeiter,Kaltern__Kaltern,unknown__Mantua,gefang.
+1840,Mayrhofer,Johann,,1809,NULL,NULL,,NULL,wirt,Lana__Lana,unknown__Mantua,gefang.
+1845,Radmoser,Josef,,1809,5,7,,NULL,bauer,Ritten__Rothwand,Innsbruck__Berg Isel,wunde
+1846,Oberrauch,Josef,60,1809,10,8,,NULL,bauer,Ritten__Wolfsgruben,Innsbruck__Berg Isel,wunde
+1847,Oberkofler,Georg,,1809,10,8,,NULL,arbeiter,Ritten__Lengmoos,unknown__Alle Laste,erschossen
+1848,Vigl,Johann,,1809,11,5,,NULL,handwerker,Ritten__Oberbozen,Bozen__Bozen,erschossen
+1849,Murr,Johann,,1809,11,8,,NULL,arbeiter,Ritten__Wangen,unknown__Kuntersweg,erschossen
+1850,Angsthofer,Peter,,1809,11,14,,NULL,handwerker,Ritten__Gismann,Ritten__Lengmoos,erschossen
+1853,Rauch,Peter,,1809,5,29,,NULL,arbeiter,Kastelruth__St. Michael,Innsbruck__Berg Isel,erschossen
+1854,Winkler,Josef,,1809,6,NULL,,NULL,arbeiter,Kastelruth__Völs,Innsbruck__Berg Isel,wunde
+1855,Fill,Georg,,1809,6,NULL,,NULL,handwerker,Kastelruth__Seis,Innsbruck__Berg Isel,wunde
+1856,Viehweider,Jakob,,1809,11,NULL,,NULL,bauer,Kastelruth__Ratzens,Kastelruth__Ratzens,wunde
+1857,Bergmeister,Georg,,1809,5,29,,NULL,sonst.,Kastelruth__St. Ulrich,Innsbruck__Berg Isel,erschossen
+1858,Metz,Peter,,1809,6,5,,NULL,bauer,Kastelruth__St. Christian,Innsbruck__Berg Isel,wunde
+1859,Wenter,Dominik,,1809,5,26,,NULL,handwerker,Kastelruth__Runggaditsch,Innsbruck__Berg Isel,wunde
+1860,Meintinger,Josef v. ,,1809,5,29,,NULL,beamter,Kastelruth__Kastelruth,Innsbruck__Berg Isel,erschossen
+1861,Schagguler,Anton,,1809,5,29,,NULL,bauer,Kastelruth__Kastelruth,Innsbruck__Berg Isel,erschossen
+1862,Pitscheider,Matth. ,,1809,8,29,,NULL,handwerker,Kastelruth__Wolkenstein,Gossensaß__Mauls,erschossen
+1863,Mussner,Dominik,,1809,8,29,,NULL,sonst.,Kastelruth__Wolkenstein,Gossensaß__Mauls,erschossen
+1864,Mayr,Anton,,1809,NULL,NULL,,NULL,bauer,Kastelruth__St. Konstant,unknown__Blumau,erschossen
+1865,Wellponer,Matthias,,1809,9,NULL,,NULL,sonst.,Kastelruth__Kastelruth,Kastelruth__Kastelruth,wunde
+1866,Trocker,Jenewein,,1809,9,NULL,,NULL,handwerker,Kastelruth__Kastelruth,Kastelruth__Kastelruth,wunde
+1867,Weissenegger,Mich.,,1809,9,NULL,,NULL,arbeiter,Kastelruth__Obervöls,unknown__Trient,wunde
+1868,Kugstatscher,Mich.,,1809,9,NULL,,NULL,sonst.,Kastelruth__Steg,unknown__Trient,erschossen
+1869,Tomaseth,Josef,,1809,10,NULL,,NULL,handwerker,Kastelruth__Seis,unknown__Törgele,erschossen
+1870,Rier,Michael,,1809,10,NULL,,NULL,bauer,Kastelruth__St. Vigil,unknown__Törgele,erschossen
+1871,Psenner,Johann,,1809,4,25,,NULL,arbeiter,Karneid__Karneid,unknown__Rovereto,exekution
+1872,Psenner,Peter,,1809,10,NULL,,NULL,arbeiter,Karneid__Karneid,unknown__Lavis,exekution
+1873,Resch,Simon,,1809,11,5,,NULL,arbeiter,Karneid__Karneid,Bozen__Bozen,gefallen
+1874,Dejori,Bartlmä,,1809,10,12,,NULL,handwerker,Karneid__Welschnofen,Karneid__Welschnofen,wunde
+1875,Pichler,Silvester,,1809,10,12,,NULL,arbeiter,Karneid__Welschnofen,unknown__Lavis,erschossen
+1876,Gummerer,Josef,,1809,10,NULL,,NULL,arbeiter,Karneid__Welschnofen,unknown__Lavis,erschossen
+1877,Psenner,Simon,,1809,10,NULL,,NULL,handwerker,Karneid__Eggenthal,unknown__Alle Laste,erschossen
+1878,Santa,Josef,,1810,NULL,NULL,,NULL,student,Karneid__Petersburg,unknown__Mantua,gefang.
+1879,Weissensteiner,Bartlmä,,1810,NULL,NULL,,NULL,arbeiter,Karneid__Petersburg,unknown__Mantua,gefang.
+1880,Spreng,Anton von,,1810,NULL,NULL,,NULL,beamter,Karneid__Deutschnofen,unknown__Mantua,gefang.
+1881,Oberkirchner,Johann,,1809,NULL,NULL,,NULL,arbeiter,Karneid__Deutschnofen,unknown__Trient,gefallen
+1882,Kapeller,Anton,,1809,NULL,NULL,,NULL,arbeiter,Karneid__Deutschnofen,unknown__Trient,gefallen
+1883,Treffer,Ulrich,,1810,NULL,NULL,,NULL,bauer,Karneid__Deutschnofen,unknown__Elba,gefang.
+1895,Weissenegger,Jakob,,1809,NULL,NULL,,NULL,arbeiter,Karneid__Tiers ,unknown__Lavis,gefallen
+1902,Wieser,Franz,,1809,NULL,NULL,,NULL,bauer,Neumarkt__Aldein,unknown__in Österreich,wunde
+1903,Unterhauser,Thomas,,1809,NULL,NULL,,NULL,arbeiter,Neumarkt__Aldein,unknown__Lavis,gefallen
+1904,Wieser,Johann,,1809,NULL,NULL,,NULL,arbeiter,Neumarkt__Aldein,unknown__Lavis,gefallen
+1905,Haas,Georg,,1809,5,17,,NULL,arbeiter,Neumarkt__Vomp,unknown__Salurn,wunde
+1906,Schwarz,Alois,,1809,10,7,,NULL,beamter,Neumarkt__Fließ,unknown__Trient,gefallen
+1907,Gruber,Michael,,1809,10,7,,NULL,handwerker,Neumarkt__Neumarkt,unknown__Trient,gefallen
+1908,Ludwig,Johann ,,1809,8,NULL,,NULL,sonst.,Neumarkt__Gfrill,unknown__Moja,gefallen
+1909,Tappeiner,Sebastian,,1809,11,16,,NULL,arbeiter,Schlanders__Schlanders,Meran__Meran,erschossen
+1910,Ilmer,Johann,,1809,11,16,,NULL,handwerker,Schlanders__Schlanders,Meran__Meran,erschossen
+1911,Götsch,Martin,,1809,11,16,,NULL,arbeiter,Schlanders__Schlanders,Meran__Meran,erschossen
+1912,Holzknecht,Johann,,1809,11,16,,NULL,arbeiter,Schlanders__Schlanders,Meran__Meran,erschossen
+1913,Bachmann,Johann,,1809,11,16,,NULL,handwerker,Schlanders__Schlanders,Meran__Meran,erschossen
+1914,Weiglmar,Josef,,1809,11,16,,NULL,sonst.,Schlanders__Schlanders,Meran__Meran,erschossen
+1916,Jamassner,Johann,,1809,11,16,,NULL,sonst.,Schlanders__Kortsch,Meran__Meran,erschossen
+1917,Horer,Peter,,1809,11,16,,NULL,arbeiter,Schlanders__Kortsch,Meran__Meran,erschossen
+1918,Stainer,Matthias,,1809,11,16,,NULL,arbeiter,Schlanders__Kortsch,Meran__Meran,erschossen
+1919,Alber,Martin,,1809,11,16,,NULL,sonst.,Schlanders__Kortsch,Meran__Meran,erschossen
+1920,Gufler,Martin,,1809,11,16,,NULL,sonst.,Schlanders__Kortsch,Meran__Meran,erschossen
+1921,Tratter,Blasius,,1809,11,16,,NULL,handwerker,Schlanders__Kortsch,Meran__Meran,erschossen
+1922,Freiseisen,Stephan,,1809,11,16,,NULL,arbeiter,Schlanders__Kortsch,Meran__Meran,erschossen
+1924,Altstetter,Thomas,,1809,11,25,,NULL,bauer,Schlanders__Göflan,Schlanders__Göflan,erschossen
+1925,Hauser,Nikolaus,,1809,11,18,,NULL,arbeiter,Schlanders__Vezan,Meran__Meran,erschossen
+1926,Mair,Josef,,1809,11,18,,NULL,bauer,Schlanders__Schlanders,Meran__Meran,erschossen
+1927,Tafatscher,Martin,32,1809,11,16,,NULL,handwerker,Schlanders__Laas,Meran__Meran,erschossen
+1928,Ausserer,Johann,,1809,11,16,,NULL,handwerker,Schlanders__Laas,Meran__Meran,erschossen
+1929,Radi,Matthias,30,1809,11,16,,NULL,arbeiter,Schlanders__Laas,Meran__Meran,erschossen
+1930,Niederfriniger,Matthias,,1809,11,16,,NULL,arbeiter,Schlanders__Laas,Meran__Meran,erschossen
+1931,Rapp,Franz,,1809,11,16,,NULL,bauer,Schlanders__Laas,Meran__Meran,erschossen
+1932,Tscholl,Georg,,1809,11,16,,NULL,bauer,Schlanders__Laas,Meran__Meran,erschossen
+1933,Purz,Valentin,,1809,11,16,,NULL,bauer,Schlanders__Laas,Meran__Meran,erschossen
+1934,Blant,Bartlmä,,1809,10,26,,NULL,bauer,Schlanders__Tschengels,Innsbruck__Berg Isel,erschossen
+1935,Blant,Jakob,,1809,11,20,,NULL,bauer,Schlanders__Tschengels,unknown__Mölten,erschossen
+1936,Frank,Andrä,,1809,11,24,,NULL,bauer,Schlanders__Tschengels,unknown__Jenesien,erschossen
+1937,Bircher,Josef,,1809,11,22,,NULL,bauer,Schlanders__Tarsch,Schlanders__Tarsch,wunde
+1938,Stecher,Franz,,1809,10,18,,NULL,bauer,Schlanders__Tarsch,unknown__Lavis,erschossen
+1939,Bircher,Josef,,1809,11,15,,NULL,bauer,Schlanders__Tarsch,Meran__Passeier,erschossen
+1940,Gamper,Josef,,1809,8,9,,NULL,handwerker,Schlanders__Morter,Sterzing__Telfs,erschossen
+1941,Pöhli,Andrä,,1809,11,23,,NULL,bauer,Schlanders__Morter,unknown__Terlan,erschossen
+1942,Tappeiner,Josef,,1809,8,13,,NULL,handwerker,Schlanders__Goldrain,Innsbruck__Berg Isel,erschossen
+1943,Gerstl,Jakob,,1809,11,24,,NULL,bauer,Schlanders__Vorberg,unknown__Jenesien,erschossen
+1944,Tscholl,Franz,,1809,10,22,,NULL,bauer,Schlanders__Tarsch,unknown__Bersano,wunde
+1951,Gamper,Martin,,1809,8,13,,NULL,bauer,Schlanders__Juval,Innsbruck__Berg Isel,erschossen
+1952,Barth,Thomas,,1809,11,20,,NULL,bauer,Schlanders__Tschars,Meran__Meran,erschossen
+1953,Santer,Peter,,1809,11,20,,NULL,arbeiter,Schlanders__Staben,Meran__Meran,erschossen
+1954,Pfeifer,Peter,,1809,11,16,,NULL,bauer,Schlanders__Schnals,Meran__Meran,erschossen
+1955,Santer,Urban,,1809,11,16,,NULL,bauer,Schlanders__Schnals,Meran__Meran,erschossen
+1956,Lindenthaler,Paul,,1809,11,16,,NULL,bauer,Schlanders__Schnals,Meran__Meran,erschossen
+1957,Gorfer,Georg,,1809,11,16,,NULL,bauer,Schlanders__Schnals,Meran__Meran,erschossen
+1958,Dialer,Andreas,,1809,11,16,,NULL,arbeiter,Schlanders__Schnals,Meran__Meran,erschossen
+1959,Vent,Matthäus,,1809,NULL,NULL,,NULL,bauer,Schlanders__Mortell,Taufers__St. Johann,erschossen
+1960,Oberhofer,Martin,32,1809,11,18,,NULL,arbeiter,Schlanders__Mortell,Meran__Meran,erschossen
+1961,Holzer,Christian ,,1809,11,18,,NULL,handwerker,Schlanders__Mortell,Meran__Meran,erschossen
+1962,Frey,Michael,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Pens,Innsbruck__Berg Isel,erschossen
+1963,Gruber,Johann,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Oberstückl,Innsbruck__Berg Isel,erschossen
+1964,Derfler,Jakob,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Oberstückl,Sarnthal__Sarntal,wunde
+1965,Hien,Simon,,1809,NULL,NULL,,NULL,sonst.,Sarnthal__unbekannt,Sterzing__Sterzing,erschossen
+1966,Nussbaumer,Peter,32,1809,8,17,,NULL,handwerker,Sarnthal__unbekannt,Mieders__Neustift,erschossen
+1967,Göller,Johann,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__unbekannt,Mieders__Neustift,erschossen
+1968,Moser,Ambros,,1809,NULL,NULL,,NULL,handwerker,Sarnthal__Sarntal,unknown__Trient,vermisst
+1969,Gasser,Franz,,1809,NULL,NULL,,NULL,handwerker,Sarnthal__Sarntal,unknown__Trient,vermisst
+1970,Regele,Matthias,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Sarntal,unknown__Trient,vermisst
+1971,Eschgfeller,Josef,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Sarntal,unknown__Trient,vermisst
+1972,Gruber,Matthias,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Sarntal,unknown__Trient,vermisst
+1973,Obertimpfler,Jakob,,1809,NULL,NULL,,NULL,bauer,Sarnthal__Sarntal,unknown__Trient,vermisst
+1974,Premstaller,Simon,,1809,NULL,NULL,,NULL,arbeiter,Sarnthal__Sarntal,Sarnthal__Sarntal,wunde
+1977,Widmann,Johann,28,1809,10,13,,NULL,bauer,Bozen__Kardaun,Bozen__Bozen,wunde
+1978,Miller,Franz,33,1809,10,14,,NULL,handwerker,Bozen__Frag,Bozen__Bozen,wunde
+1979,Garz,Johann,,1809,11,6,,NULL,bauer,Bozen__Marling,Bozen__Bozen,wunde
+1980,Aichner,Matthias,,1809,10,2,,NULL,handwerker,Bozen__Moritzing,unknown__Mantua,gefang.
+1981,Staffler,Franz,,1809,10,2,,NULL,sonst.,Bozen__Bozen,Sterzing__Sterzing,wunde
+1982,Schrott,Georg,,1809,10,2,,NULL,unbekannt,Bozen__Bozen,unknown__Mantua,gefang.
+1983,Oberrauch,Stephan,,1809,10,2,,NULL,handwerker,Bozen__Bozen,unknown__Trient,erschossen
+1984,Aichner,Josef,,1809,10,2,,NULL,unbekannt,Bozen__Bozen,unknown__Lavis,erschossen
+1985,Rottensteiner,Josef,,1809,10,2,,NULL,unbekannt,Bozen__Bozen,unknown__Corsica,gefang.
+1986,Widmann,Stephan,,1809,10,2,,NULL,bauer,Bozen__Bozen,unknown__Lavis,erschossen
+1987,Bradlwarter,Josef,,1809,10,2,,NULL,handwerker,Bozen__Bozen,unknown__Lavis,erschossen
+1988,Waidacher,Josef,,1809,10,2,,NULL,handwerker,Bozen__Moritzing,unknown__Lavis,erschossen
+1989,Schmid,Franz,,1809,NULL,NULL,,NULL,arbeiter,Bozen__Bozen,unknown__Alle Laste,erschossen
+1990,Mumelter,Georg,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1991,Thurner,Josef,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1992,Waidacher,Josef,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1993,Lindner,Johann,,1809,12,30,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Mantua,gefang.
+1994,Werner,Johann,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1995,Casaletti,Jakob,,1809,NULL,NULL,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Trient,gefang.
+1996,Murmelter,Josef,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1997,Steger,Anton,,1809,10,2,,NULL,handwerker,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1998,Schmid,Franz,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+1999,Mooser,Jakob,,1809,10,2,,NULL,handwerker,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+2000,Mayr,Johann,,1809,NULL,NULL,,NULL,handwerker,"Bozen__Gries, LG Bozen",unknown__Mantua,gefang.
+2001,Schrott,Georg,,1809,NULL,NULL,,NULL,handwerker,"Bozen__Gries, LG Bozen",unknown__Mantua,gefang.
+2002,Söll,Michael ,,1810,NULL,NULL,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Mantua,gefang.
+2003,Jenewein,Josef,,1809,10,2,,NULL,arbeiter,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+2004,Gruber,Josef,,1809,10,2,,NULL,handwerker,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+2005,Schlechtleitner,Ant,,1809,10,2,,NULL,bauer,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+2006,Weber,Josef,,1809,10,2,,NULL,arbeiter,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+2007,Pircher,Franz,,1809,10,2,,NULL,arbeiter,Bozen__St. Georgen,unknown__Lavis,erschossen
+2008,Regele,Matthias,,1809,NULL,NULL,,NULL,arbeiter,"Bozen__Gries, LG Bozen",unknown__Mantua,gefang.
+2009,Mayr,Josef,,1809,10,2,,NULL,handwerker,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+2010,Pfeifer,Josef,,1809,10,2,,NULL,arbeiter,"Bozen__Gries, LG Bozen",unknown__Lavis,erschossen
+340,Wollschlager,Bernhart,,1809,5,4,,NULL,bauer,Kufstein__Söll,Kufstein__Kufstein,nahkampf
+341,Arb,Nikolaus,,1809,5,9,,NULL,handwerker,Kufstein__Hopfgarten,Kitzbühel__Waidring,erschossen
+342,Widmann,Johann,,1809,5,10,,NULL,bauer,Kufstein__Söll,Kufstein__Söll,wunde
+344,Marcher,Jakob,,1809,5,13,,NULL,sonst.,Kufstein__Ellmau,Kitzbühel__Kirchdorf,erschossen
+345,Kirchdorfer,Johann,,1809,5,13,,NULL,sonst.,Kufstein__Ellmau,Kitzbühel__Waidring,erschossen
+346,Anndt,Sebastian,,1809,5,13,,NULL,handwerker,Kufstein__Ellmau,Kitzbühel__Going,nahkampf
+347,Werlberger,Michael,,1809,5,14,,NULL,bauer,Kufstein__Wörgl,unknown__Grattenbruck,nahkampf
+348,Koller,Petrus,,1809,5,14,,NULL,arbeiter,Kufstein__Wörgl,unknown__Grattenbruck,nahkampf
+349,Gasser,Silvester,,1809,5,14,,NULL,handwerker,Kufstein__Wörgl,unknown__Grattenbruck,nahkampf
+350,Seißl,Christian,,1809,5,15,,NULL,bauer,Kufstein__Wörgl,unknown__Paß Thurn,nahkampf
+351,Weiß,Matthäus,,1809,5,15,,NULL,handwerker,Kufstein__Wörgl,unknown__Unken,erschossen
+352,Kainzinger,Gregor,,1809,5,15,,NULL,arbeiter,Kufstein__unbekannt,unknown__Unken,erschossen
+353,Klausner,Josef,,1809,6,5,,NULL,bauer,Kufstein__Wörgl,unknown__Unken,erschossen
+354,Spiegl,Josef,,1809,9,25,,NULL,arbeiter,Kufstein__Wörgl,unknown__Unken,erschossen
+355,Baumgartner,Caspar,,1809,5,12,,NULL,handwerker,Kufstein__Erl,unknown__Windhausen,erschossen
+356,Schweinsteiger,Georg,,1809,5,12,,NULL,handwerker,Kufstein__Erl,unknown__Windhausen,erschossen
+357,Schweighofer,Johann,,1809,5,12,,NULL,handwerker,Kufstein__Erl,unknown__Windhausen,erschossen
+358,Schmid,Sebastian,,1809,5,12,,NULL,sonst.,Kufstein__Erl,unknown__Windhausen,erschossen
+360,Weindl,Alois,,1809,5,NULL,,NULL,handwerker,Kufstein__Häring,unknown__Paß Thurn,wunde
+365,Sieberer,Georg,,1809,7,24,,NULL,arbeiter,Kufstein__Landl,unknown__Ursprung,erschossen
+366,Leitner,Johann ,,1809,7,24,,NULL,handwerker,Kufstein__Landl,unknown__Ursprung,gefang.
+367,Irlinger,Jakob,,1809,NULL,NULL,,NULL,handwerker,Kufstein__Zell ,unknown__Thierberg,wunde
+368,Wagner,Simon,,1809,NULL,NULL,,NULL,bauer,Kufstein__Zell ,unknown__Thierberg,nahkampf
+369,Pirchmoser,Jakob,,1809,5,9,,NULL,bauer,Kufstein__Angath,unknown__unbekannt,gefallen
+370,Landmann,Johann,,1809,5,9,,NULL,arbeiter,Kufstein__Angath,unknown__unbekannt,gefallen
+374,Pfluger,Jakob,,1809,10,9,,NULL,arbeiter,Kufstein__Thiersee,unknown__Kiechelsteg,wunde
+375,Hofer,Benedikt,,1809,10,9,,NULL,sonst.,Kufstein__Thiersee,unknown__München,gefang.
+376,Hofer,Matthias,,1809,10,9,,NULL,arbeiter,Kufstein__Thiersee,Kufstein__Thiersee,gefallen
+377,Aufhammer,Georg,,1809,5,5,,NULL,bauer,Kufstein__Ebbs,unknown__Wildbichl,erschossen
+382,Leitner,Thomas,,1809,5,12,,NULL,handwerker,Kufstein__Kössen,unknown__Zollhaus,erschossen
+383,Wagner,Simon,,1809,5,12,,NULL,bauer,Kufstein__Kufstein,unknown__Thierberg,nahkampf
+385,Rothmayr,Johann,,1809,NULL,NULL,,NULL,handwerker,Kufstein__Angerberg,Kufstein__Kufstein,erschossen
+386,Harter,Franz,,1809,NULL,NULL,,NULL,handwerker,Kufstein__Schwaz,unknown__Thierberg,verbrannt
+388,Leitner,Thomas,,1809,5,12,,NULL,handwerker,Kufstein__Kössen,Kufstein__Niederndorf,erschossen
+389,Anker,Martin,,1809,5,12,,NULL,bauer,Kufstein__Niederndorf,Kufstein__Niederndorf,nahkampf
+390,Hupf,Georg,,1809,12,18,,NULL,arbeiter,Kufstein__Ritzgraben,unknown__München,gefang.
+392,Goinger,Sebastian,,1809,5,11,,NULL,arbeiter,Kitzbühel__Kitzbühel,Kitzbühel__Paß Strub,wunde
+393,Wegner,Vinzenz,,1809,5,11,,NULL,handwerker,Kitzbühel__Kitzbühel,Kitzbühel__Paß Strub,erschossen
+394,Adlsperger,Sebastian,,1809,5,11,,NULL,arbeiter,Kitzbühel__Kitzbühel,Kitzbühel__Paß Strub,erschossen
+395,Griesenauer,Georg,,1809,5,11,,NULL,arbeiter,Kitzbühel__Kitzbühel,Kitzbühel__Paß Strub,erschossen
+396,Wegner,Josef,,1809,5,12,,NULL,handwerker,Kitzbühel__Kitzbühel,Kitzbühel__Waidring,erschossen
+397,Lindner,Peter,,1809,5,12,,NULL,handwerker,Kitzbühel__Kitzbühel,Kitzbühel__Waidring,erschossen
+398,Waldhauser,Michael,,1809,5,12,,NULL,bauer,Kitzbühel__Kitzbühel,Kitzbühel__Waidring,erschossen
+399,Doll,Michael,,1809,10,21,,NULL,arbeiter,Kitzbühel__Kitzbühel,unknown__Spittal in Kärnten,wunde
+400,Fischbacher,Josef,,1809,10,23,,NULL,handwerker,Kitzbühel__Kitzbühel,unknown__Lieserhofen in Kärnten,erschossen
+402,Schreder,Jacob,,1809,5,12,,NULL,bauer,Kitzbühel__Waidring,Kitzbühel__Paß Strub,nahkampf
+403,Schwaiger,Simon,,1809,5,12,,NULL,bauer,Kitzbühel__Waidring,Kitzbühel__Paß Strub,nahkampf
+404,Kiechlegger,Matth. ,,1809,5,12,,NULL,handwerker,Kitzbühel__Waidring,Kitzbühel__Paß Strub,nahkampf
+405,Hofflinger,Thomas,,1809,5,12,,NULL,bauer,Kitzbühel__Kirchdorf,Kitzbühel__Paß Strub,nahkampf
+406,Kienpointner,Andrä,,1809,5,12,,NULL,sonst.,Kitzbühel__Waidring,Kitzbühel__Paß Strub,nahkampf
+408,Mauracher,Adam,,1809,NULL,NULL,,NULL,bauer,Kitzbühel__Kössen,Kitzbühel__Kössen,erschossen
+410,Hoier,Leonhard,,1809,5,11,,NULL,sonst.,Kitzbühel__Fieberbrunn,Kitzbühel__Fieberbrunn,erschossen
+411,Niederseer,Matthias,,1809,5,11,,NULL,arbeiter,Kitzbühel__Fieberbrunn,Kitzbühel__Waidring,erschossen
+414,Achhorner,Jakob,,1809,5,NULL,,NULL,bauer,Kitzbühel__Schwendt,Kitzbühel__Kirchdorf,nahkampf
+415,Gschwendtner,Thomas,,1809,5,12,,NULL,bauer,Kitzbühel__St. Ulrich,unknown__München,gefang.
+416,Pfandl,Josef,,1809,5,12,,NULL,bauer,Kitzbühel__Kössen,unknown__Unken,erschossen
+421,Brunner,Thomas,,1809,NULL,NULL,,NULL,bauer,Kitzbühel__Going,unknown__Sachering in Baiern,nahkampf
+422,Hörl,Josef,,1809,NULL,NULL,,NULL,arbeiter,Kitzbühel__Reith,Kitzbühel__Waidring,erschossen
+423,Ehn,Michael,,1809,5,4,,NULL,bauer,Kitzbühel__Reith,unknown__Wiesenschwang in Baiern,erschossen
+424,Hauser,Kaspar,,1809,5,4,,NULL,bauer,Kitzbühel__Reith,unknown__Sachering in Baiern,erschossen
+425,Brunner,Thomas,,1809,NULL,NULL,,NULL,bauer,Kitzbühel__Reith,unknown__Wiesenschwang in Baiern,erschossen
+441,Windauer,Georg,,1809,5,14,,NULL,bauer,Hofpgarten__Westendorf,Kufstein__Kufstein,erschossen
+442,Berauer,Josef,,1809,5,14,,NULL,bauer,Hofpgarten__Hopfgarten,Kufstein__Kufstein,erschossen
+443,Oberhauser,Wolfgang,,1809,5,11,,NULL,wirt,Hofpgarten__Brixen,Kitzbühel__Paß Strub,gefallen
+444,Stöckl,Leonhart,,1809,5,11,,NULL,arbeiter,Hofpgarten__Reith Lg. Kitzbühel,Kitzbühel__Paß Strub,gefallen
+445,Stöckl,Hans,,1809,5,11,,NULL,arbeiter,Hofpgarten__Westendorf,Kitzbühel__Paß Strub,gefallen
+446,Gottschneider,Vinzenz,,1809,5,11,,NULL,arbeiter,Hofpgarten__unbekannt,Kitzbühel__Paß Strub,gefallen
+447,Seywald,Michl,,1809,5,12,,NULL,arbeiter,Hofpgarten__Westendorf,Kitzbühel__Paß Strub,gefallen
+448,Krall,Josef,,1809,5,12,,NULL,unbekannt,Hofpgarten__unbekannt,Kitzbühel__Paß Strub,gefallen
+449,Laiminger,Johann,,1809,5,12,,NULL,unbekannt,Hofpgarten__unbekannt,Kitzbühel__Paß Strub,gefallen
+450,Aschaber,Georg,,1809,5,12,,NULL,unbekannt,Hofpgarten__unbekannt,Kitzbühel__Paß Strub,gefallen
+451,Sigl,Josef,,1809,10,17,,NULL,beamter,Hofpgarten__angebl. Salzburg,unknown__Melleck,gefallen
+452,Mayr,Josef,,1809,10,17,,NULL,unbekannt,Hofpgarten__Brixen,unknown__Melleck,gefallen
+453,Hirzinger,Josef,,1809,10,17,,NULL,bauer,Hofpgarten__Brixen,unknown__Melleck,gefallen
+454,Bruner,Georg,,1809,10,17,,NULL,bauer,Hofpgarten__Kirchberg,unknown__Melleck,gefang.
+455,Pöll,Nikolaus,,1809,10,17,,NULL,bauer,Hofpgarten__Kirchberg,unknown__Melleck,gefang.
+456,Landmann,Johann,,1809,10,17,,NULL,bauer,Hofpgarten__Kirchberg,unknown__Melleck,gefang.
+457,Bruner,/ Lindner Georg,,1809,11,6,,NULL,handwerker,Hofpgarten__Hopfgarten,unknown__Zell am Ziller,erschossen
+458,Lederer,Josef,,1809,NULL,NULL,,NULL,unbekannt,Hofpgarten__unbekannt,unknown__unbekannt,gefallen
+460,Pirchl,Johann,,1809,NULL,NULL,,NULL,sonst.,Rattenberg__Rattenberg,unknown__Straß,erschossen
+461,Lichtmangger,Johann,,1809,NULL,NULL,,NULL,handwerker,Rattenberg__Rattenberg,unknown__Straß,erschossen
+462,Wöll,Franz,,1809,NULL,NULL,,NULL,beamter,Rattenberg__Rattenberg,unknown__Melleck,gefang.
+463,Strobl,Anton,,1809,NULL,NULL,,NULL,handwerker,Rattenberg__Rattenberg,unknown__Mühleck,erschossen
+464,Welzenberger,Johann,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Radfeld,unknown__Forchheim (Gefängnis),wunde
+465,Gander,Peter,,1809,NULL,NULL,,NULL,handwerker,Rattenberg__Radfeld,unknown__unbekannt,nahkampf
+466,Moser,Bartlmä,,1809,NULL,NULL,,NULL,arbeiter,Rattenberg__Brixlegg,unknown__Zillerbrücke,erschossen
+467,Brunner,Josef,,1809,5,31,,NULL,arbeiter,Rattenberg__Reith,unknown__Innbrücke zu Brixlegg,erschossen
+468,Jäger,Ignaz,,1809,NULL,NULL,,NULL,arbeiter,Rattenberg__Hall,unknown__am Schweinanger,erschossen
+470,Huber,Bartlmä,,1809,4,15,,NULL,bauer,Rattenberg__Reith,unknown__Zillerbrücke,exekution
+471,Keil,Josef,,1809,4,15,,NULL,bauer,Rattenberg__Reith,unknown__Zillerbrücke,exekution
+472,Schonner,Georg,,1809,4,15,,NULL,bauer,Rattenberg__Reith,unknown__Zillerbrücke,exekution
+473,Zeller,Franz,,1809,4,15,,NULL,bauer,Rattenberg__Reith,unknown__Zillerbrücke,exekution
+474,Gwschendtner,Alois,,1809,4,15,,NULL,arbeiter,Rattenberg__Reith,unknown__Straß,exekution
+475,Lackner,Franz,,1809,4,15,,NULL,arbeiter,Rattenberg__Reith,unknown__Straß,exekution
+476,Moser,Bartlmä,,1809,4,15,,NULL,bauer,Rattenberg__Mautken,unknown__Zillerbrücke,gefallen
+477,Einberger,Peter,,1809,10,17,,NULL,bauer,Rattenberg__Reith,unknown__Melleck,gefang.
+478,Bruner,Andrä,,1809,10,17,,NULL,bauer,Rattenberg__Reith,unknown__Melleck,gefang.
+479,Schüßling,Sebastian,,1809,10,17,,NULL,handwerker,Rattenberg__Alpach,unknown__Melleck,gefang.
+480,Schonner,Georg,,1809,10,17,,NULL,bauer,Rattenberg__Alpach,unknown__Melleck,wunde
+481,Magreiter,Matthias,,1809,10,17,,NULL,bauer,Rattenberg__Alpach,unknown__Melleck,wunde
+482,Brayer,Andrä,,1809,10,17,,NULL,bauer,Rattenberg__Alpach,unknown__Melleck,wunde
+483,Brühler,Johann,,1809,10,17,,NULL,bauer,Rattenberg__Thierbach,unknown__Melleck,wunde
+486,Mayr,Matthias ,,1809,10,17,,NULL,bauer,Rattenberg__Oberau,unknown__Melleck,gefang.
+487,Wörnhart,Leonhart,,1809,10,17,,NULL,bauer,Rattenberg__Oberau,unknown__Melleck,gefang.
+488,Seißl,Franz,34,1809,10,19,,NULL,wirt,Rattenberg__Niederau,Kufstein__Wörgl,erschossen
+489,Mauracher,Thomas ,24,1809,10,19,,NULL,handwerker,Rattenberg__Niederau,Kufstein__Wörgl,erschossen
+490,Flatschner,Sixtus,33,1809,10,17,,NULL,bauer,Rattenberg__Niederau,Rattenberg__Niederau,gefang.
+491,Schüßling,Lorenz,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Kundl,unknown__Rinn,erschossen
+492,Perthaler,Georg,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Angath,unknown__Gugelberg,nahkampf
+497,Atzl,Bernhard,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Mariathal,unknown__Rinn,gefallen
+504,Fiechter,Georg,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Bruck,unknown__Zillerbrücke,exekution
+505,Graber,Simon,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Bruck,unknown__Rotholz,exekution
+506,Huber,Georg,,1809,NULL,NULL,,NULL,bauer,Rattenberg__Bruck,unknown__Zillerbrücke,exekution
+507,Wurm,Thomas,,1809,10,17,,NULL,bauer,Rattenberg__Bruck,unknown__Melleck,gefallen
+508,Rieder,Peter,,1809,10,17,,NULL,bauer,Rattenberg__Bruck,unknown__Melleck,gefallen
+561,Scherl,Franz,,1809,10,20,,NULL,unbekannt,Fügen__Niederhart,unknown__Unken,erschossen
+562,Häusler,Simon,,1809,10,17,,NULL,unbekannt,Fügen__Ponkratzenb.,unknown__Melleck,erschossen
+563,Hostlach,Georg,,1809,11,13,,NULL,unbekannt,Fügen__Fügen,unknown__Volderberg,sonstig.
+564,Brugger,Augustin,,1809,5,16,,NULL,handwerker,Fügen__Stumm,unknown__Brettfall,mord
+565,Lamprecht,Franz,,1809,5,16,,NULL,unbekannt,Fügen__Mörz,unknown__Straß,mord
+566,Stolz,Franz,,1809,5,16,,NULL,unbekannt,Fügen__Stumm,unknown__Zillerbrücke,mord
+567,Braunegger,Ignaz,,1809,5,16,,NULL,unbekannt,Fügen__Stummerberg,unknown__Brettfall,erschossen
+568,Moser,Oswald,,1809,5,16,,NULL,unbekannt,Fügen__Stummerberg,Rattenberg__Rattenberg,erschossen
+569,Hörhager,Sebastian,,1809,10,17,,NULL,unbekannt,Fügen__Stumm,unknown__Melleck,gefang.
+571,Fleidl,Jakob,,1809,9,25,,NULL,arbeiter,Zell am Ziller__Hörler am Gerlos,unknown__Melleck,erschossen
+572,Gradler,Josef,,1809,9,25,,NULL,arbeiter,Zell am Ziller__Thennen in Tux,unknown__Melleck,erschossen
+573,Kreidl,Peter,,1809,11,6,,NULL,arbeiter,Zell am Ziller__Tux,unknown__Zell am Ziller,erschossen
+574,Kröll,Jakob,,1809,8,NULL,,NULL,bauer,Zell am Ziller__Larcher i. Hollenzen,unknown__Thierberg bei Kufstein,erschossen
+575,Leitner,Sebastian,,1809,9,25,,NULL,bauer,Zell am Ziller__Kaltenbach,unknown__Melleck,erschossen
+576,Lengauer,Thomas,,1809,9,25,,NULL,arbeiter,"Zell am Ziller__Emberg, Gem. Aschau",unknown__Melleck,erschossen
+577,Pfister,Jakob,,1809,9,25,,NULL,handwerker,Zell am Ziller__Zell a. Z. ,unknown__Melleck,erschossen
+578,Schneeberger,Josef,,1809,9,25,,NULL,bauer,Zell am Ziller__Maryrhofen,unknown__Melleck,erschossen
+580,Krapp,Josef,,1809,5,12,,NULL,handwerker,Rottenburg__Rattenberg-Münster,unknown__in d. Kiefer,erschossen
+583a,"Pockstaller,",Johann,,1809,NULL,NULL,,NULL,sonst.,Rottenburg__Achenthal,unknown__unbekannt,gefang.
+584b,Brantl,Jakob,,1809,8,NULL,,NULL,arbeiter,Rottenburg__unbekannt,unknown__unbekannt,mord
+585c,Reiter,Josef,,1809,NULL,NULL,,NULL,bauer,Rottenburg__Gallzein,unknown__unbekannt,erschossen
+586d,Wopfner,Andreas ,,1809,NULL,NULL,,NULL,handwerker,Rottenburg__Gallzein,unknown__unbekannt,erschossen
+587e,Pfeifer,Jakob,,1809,NULL,NULL,,NULL,handwerker,Rottenburg__Schlitters,unknown__unbekannt,wunde
+588f,Gasser,Andreas,,1809,5,15,,NULL,sonst.,Rottenburg__Buch,Rottenburg__Buch,erschossen
+596,Harter,Anton,19,1809,6,2,,NULL,arbeiter,Schwaz__Schwaz,unknown__Thierberg,erschossen
+597,Kandler,Ignaz,21,1809,6,2,,NULL,arbeiter,Schwaz__Schwaz,unknown__Thierberg,erschossen
+598,Oegler,Johann,,1809,6,2,,NULL,bauer,Schwaz__Vomp,Kufstein__Kufstein,gefallen
+599,Obrist,Peter,,1809,5,15,,NULL,bauer,Schwaz__Stans,unknown__bei Stans,erschossen
+600,Rastbichler,Johann,46,1809,8,7,,NULL,bauer,Schwaz__Weerberg,Innsbruck__Berg Isel,exekution
+601,Huber,Alois,22,1809,10,15,,NULL,bauer,Schwaz__Stans,unknown__München,gefang.
+602,Oegler,Johann,,1809,NULL,NULL,,NULL,bauer,Schwaz__Vomp,Neumarkt__Vomp,erschossen
+603,Werl,Peter,,1809,NULL,NULL,,NULL,bauer,Schwaz__Vomp,unknown__Lofer,gefallen
+604,Klocker,Georg,,1809,NULL,NULL,,NULL,bauer,Schwaz__Weer ,unknown__Rinn,gefallen
+605,Steinlechner,Josef,,1809,NULL,NULL,,NULL,bauer,Schwaz__Pillerniederb. ,unknown__Rinn,gefallen
+606,Köck,Andrä,,1809,10,27,,NULL,bauer,Schwaz__Schwaz,Stadt Hall__Hall,wunde
+618,Thum,Andrä,,1809,NULL,NULL,,NULL,bauer,Wattens__Wattenberg,unknown__unbekannt,gefallen
+619,Schmid,Matthias,,1809,NULL,NULL,,NULL,handwerker,Wattens__Wattens,unknown__unbekannt,gefallen
+620,Angerer,Jakob,,1809,NULL,NULL,,NULL,handwerker,Wattens__Wattens,unknown__unbekannt,gefallen
+635,Jenwein,Anton,,1809,NULL,NULL,,NULL,unbekannt,Stadt Hall__Hall,unknown__Margrethen,erschossen
+636,Jenewein,Josef,,1809,NULL,NULL,,NULL,unbekannt,Stadt Hall__Hall,Meran__Passeier,wunde
+644,Mayr,Josef,,1810,7,13,,NULL,handwerker,Tulfes__Tulfes,unknown__Rinn,wunde
+646,Erlacher,Josef,,1809,10,17,,NULL,arbeiter,Tulfes__Tulfes,unknown__Melleck,gefallen
+647,Winckler,Michael,60,1809,10,NULL,,NULL,unbekannt,Tulfes__Tulfes,Tulfes__Tulfes,erschossen
+648,Oelhafen,Josef,56,1809,5,20,,NULL,bauer,Mils__Mils,unknown__Volderau,exekution
+649,Agnes,Aichbergerin,67,1809,8,29,,NULL,unbekannt,Mils__Mils,Mils__Mils,exekution
+650,Triendl,Kaspar,,1809,8,15,,NULL,arbeiter,Mils__Mils,unknown__Weer,wunde
+651,Kampfl,Johann,,1809,NULL,NULL,,NULL,bauer,Hall__Gnadenwald,unknown__unbekannt,wunde
+664,Jenwein,Anton ,,1809,NULL,NULL,,NULL,arbeiter,Volders__Volderwald,unknown__St.  Margarethen,gefallen
+665,Piengger,Joachim,,1809,NULL,NULL,,NULL,unbekannt,Volders__Volderwald,Volders__Volderwald,wunde
+666,Stainlechner,Johan,,1809,NULL,NULL,,NULL,handwerker,Volders__Volderwald,Volders__Volderwald,unbekannt
+674,Posmoser,Martin,,1809,4,21,,NULL,sonst.,Absam__Absam,unknown__unbekannt,wunde
+675,Wirthenberger,Johann,,1809,10,17,,NULL,unbekannt,Absam__Absam,unknown__Melleck,gefang.
+676,Angerer,Josef,,1809,5,16,,NULL,bauer,Terfens__Terfens,Kufstein__Wörgl,gefallen
+738,Krapf,Johann ,,1809,10,17,,NULL,arbeiter,Sonnenburg__Sistrans,unknown__Melleck,vermisst
+739,Gogl,Josef,,1809,11,1,,NULL,bauer,Sonnenburg__Sistrans,Innsbruck__Berg Isel,erschossen
+740,Mayr,Andrä,,1809,4,13,,NULL,bauer,Sonnenburg__Kematen,Innsbruck__Berg Isel,gefallen
+741,Kapferer,Andreas,,1809,4,11,,NULL,bauer,Sonnenburg__Grieß in Sellrain,Innsbruck__Berg Isel,erschossen
+742,Rainer,Franz,,1809,10,17,,NULL,bauer,Sonnenburg__Grieß in Sellrain,unknown__Melleck,gefallen
+743,Kapferer,Johann,,1809,10,17,,NULL,bauer,Sonnenburg__Grieß in Sellrain,unknown__Melleck,gefallen
+744,Ruetz,Josef,,1809,10,17,,NULL,arbeiter,Sonnenburg__Grieß in Sellrain,unknown__Melleck,gefallen
+745,Schifferer,Johann,,1809,10,17,,NULL,arbeiter,Sonnenburg__Grieß in Sellrain,unknown__Melleck,gefallen
+746,Oepp,Stephan,,1809,11,1,,NULL,söldner,Sonnenburg__Sellrain,Innsbruck__Berg Isel,gefallen
+749,Magerl,Johann,27,1809,4,12,,NULL,bauer,Sonnenburg__Innsbruck,Innsbruck__Berg Isel,gefallen
+750,Leitgeb,Bartlmä,,1809,4,11,,NULL,bauer,Sonnenburg__Natters,Innsbruck__Berg Isel,gefallen
+751,Singer,Kassian ,,1809,4,11,,NULL,arbeiter,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+752,Schweighofer,Simon,,1809,4,11,,NULL,arbeiter,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+753,Goltinger,Josef,,1809,4,11,,NULL,söldner,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+754,Mayr,Franz,,1809,4,11,,NULL,söldner,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+755,Goltinger,Georg,,1809,4,13,,NULL,söldner,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+756,Jordan,Johann,,1809,4,13,,NULL,arbeiter,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+757,Maurer,Alexius,,1809,4,9,,NULL,arbeiter,Sonnenburg__Götzens,Innsbruck__Berg Isel,gefallen
+758,Jordan,Josef,,1809,4,13,,NULL,arbeiter,Sonnenburg__Axams,Innsbruck__Berg Isel,gefallen
+759,Kastl,Matthias ,,1809,4,13,,NULL,sonst.,Sonnenburg__Axams,Innsbruck__Berg Isel,gefallen
+760,Brenner,Josef,,1809,4,13,,NULL,söldner,Sonnenburg__Axams,Innsbruck__Berg Isel,gefallen
+761,Unterleitner,Josef ,,1809,4,13,,NULL,arbeiter,Sonnenburg__Axams,Innsbruck__Berg Isel,gefallen
+762,Schaffenrath,Josef,,1809,11,1,,NULL,söldner,Sonnenburg__Axams,Innsbruck__Berg Isel,gefallen
+763,Singer,Georg,,1809,10,17,,NULL,söldner,Sonnenburg__Axams,unknown__Melleck,gefallen
+764,Happ,Johann,,1809,10,17,,NULL,arbeiter,Sonnenburg__Axams,unknown__Melleck,gefallen
+765,Unterleitner,Goerg,,1809,10,17,,NULL,sonst.,Sonnenburg__Axams,unknown__Melleck,gefallen
+766,Rieder,Michael,,1809,10,17,,NULL,arbeiter,Sonnenburg__Axams,unknown__Melleck,gefallen
+767,Tiefenbrunner,Ant.,,1809,10,17,,NULL,arbeiter,Sonnenburg__Axams,unknown__Melleck,gefallen
+768,Oetl,Bartlmä,,1809,11,1,,NULL,handwerker,Sonnenburg__Völs,Innsbruck__Berg Isel,gefallen
+769,Larcher,Johann,57,1809,4,13,,NULL,handwerker,Sonnenburg__Wilten,Innsbruck__Berg Isel,gefallen
+770,Stolz,Jakob,48,1809,4,13,,NULL,bauer,Sonnenburg__Wilten,Innsbruck__Berg Isel,gefallen
+771,Jäger,Alois,19,1809,4,13,,NULL,arbeiter,Sonnenburg__Wilten,Innsbruck__Berg Isel,gefallen
+772,Prantner,Johann,,1809,4,12,,NULL,handwerker,Sonnenburg__Wilten,Innsbruck__Berg Isel,gefallen
+773,Angerer,Jakob,,1809,4,12,,NULL,handwerker,Sonnenburg__Wilten,Innsbruck__Berg Isel,gefallen
+774,Aichler,Jakob,,1809,11,1,,NULL,arbeiter,Sonnenburg__Wilten,Innsbruck__Berg Isel,gefallen
+775,Klieber,Andreas ,,1809,10,17,,NULL,arbeiter,Sonnenburg__Wilten,unknown__Melleck,gefallen
+776,Hilber,Simon,,1809,11,1,,NULL,arbeiter,Sonnenburg__Vill,Innsbruck__Berg Isel,erschossen
+777,Posch,Alois,,1809,5,NULL,,NULL,arbeiter,Sonnenburg__Ambras,unknown__bei St. St. Margarethen,nahkampf
+778,Baldauf,Michael,,1809,5,NULL,,NULL,arbeiter,Sonnenburg__Ambras,unknown__St. Margarethen,nahkampf
+779,Vögele,Johann,,1809,10,28,,NULL,arbeiter,Sonnenburg__Ambras,unknown__Rinn,gefallen
+780,Stippler,Georg,,1809,10,17,,NULL,bauer,Sonnenburg__Lans,unknown__Melleck,gefang.
+781,Mayr,Peter,,1809,10,17,,NULL,arbeiter,Sonnenburg__Kematen,unknown__Hallein,wunde
+782,Wegscheider,Jakob,,1809,4,10,,NULL,arbeiter,Sonnenburg__Sellrain,Innsbruck__Berg Isel,wunde
+783,Haider,Josef,,1809,4,11,,NULL,arbeiter,"Sonnenburg__Gries, LG Sonnenburg",Innsbruck__Berg Isel,wunde
+784,Löchl,Andrä,,1809,11,15,,NULL,arbeiter,"Sonnenburg__Gries, LG Sonnenburg",Innsbruck__Berg Isel,wunde
+785,Kapferer,Michael,,1809,10,17,,NULL,arbeiter,"Sonnenburg__Gries, LG Sonnenburg",unknown__Melleck,gefang.
+786,Neuratuer,Johann,,1809,10,17,,NULL,arbeiter,"Sonnenburg__Gries, LG Sonnenburg",unknown__Melleck,gefang.
+787,Fagschlunger,Johann,,1809,10,17,,NULL,arbeiter,"Sonnenburg__Gries, LG Sonnenburg",unknown__Melleck,gefang.
+788,Heiß,Jakob,,1809,4,12,,NULL,bauer,Sonnenburg__Innsbruck,Innsbruck__Berg Isel,wunde
+789,Singer,Matthäus,,1809,10,17,,NULL,sonst.,Sonnenburg__Götzens,unknown__Melleck,gefang.
+790,Eigentler,Franz,,1809,10,17,,NULL,arbeiter,Sonnenburg__Götzens,unknown__Melleck,gefang.
+791,Baumgartner,Josef,,1809,10,17,,NULL,arbeiter,Sonnenburg__Axams,unknown__Melleck,gefang.
+792,Huber,Alois,,1809,10,17,,NULL,arbeiter,Sonnenburg__Axams,unknown__Melleck,gefang.
+793,Wegscheider,Blasius,,1809,4,13,,NULL,arbeiter,Sonnenburg__Axams,Innsbruck__Berg Isel,wunde
+794,Jauffentahler,Matthias,,1809,4,12,,NULL,wirt,Sonnenburg__Wilten,Innsbruck__Berg Isel,wunde
+795,Stalbinger,Jakob,,1809,4,12,,NULL,arbeiter,Sonnenburg__Wilten,Innsbruck__Berg Isel,wunde
+796,Klieber,Franz,,1809,10,17,,NULL,sonst.,Sonnenburg__Igls,unknown__Melleck,gefang.
+797,Klieber,Andrä,,1809,10,17,,NULL,arbeiter,Sonnenburg__Igls,unknown__Melleck,vermisst
+798,Mayr,Franz,,1809,4,13,,NULL,arbeiter,Sonnenburg__Mutters,Innsbruck__Berg Isel,wunde
+799,Krapf,Franz,,1809,10,17,,NULL,bauer,Sonnenburg__Christen,unknown__Melleck,gefang.
+800,Kirchmayr,Michael,,1809,10,17,,NULL,arbeiter,Sonnenburg__Birgitz,unknown__Melleck,gefang.
+801,Schluifer,Josef,,1809,4,12,,NULL,bauer,Sonnenburg__Völs,Innsbruck__Berg Isel,gefallen
+802,Uschal,Ignaz,25,1809,4,27,,NULL,unbekannt,Sonnenburg__unbekannt,Innsbruck__Berg Isel,wunde
+822,Mailand,Thomas,24,1809,4,11,,NULL,handwerker,Innsbruck__Innsbruck,Innsbruck__Berg Isel,wunde
+823,Kralinger,Andre,23,1809,4,12,,NULL,wirt,Innsbruck__Innsbruck,Innsbruck__Berg Isel,wunde
+824,Singer,Kassian ,33,1809,4,12,,NULL,arbeiter,Innsbruck__Innsbruck,Innsbruck__Berg Isel,wunde
+825,Jabinger,Paul ,66,1809,4,12,,NULL,arbeiter,Innsbruck__Innsbruck,Innsbruck__Berg Isel,wunde
+826,Lunz,Alois Josef,19,1809,4,21,,NULL,handwerker,Innsbruck__Innsbruck,Innsbruck__Berg Isel,wunde
+827,Tschall,Ignaz,25,1809,4,27,,NULL,arbeiter,Innsbruck__Innsbruck,Innsbruck__Berg Isel,wunde
+828,Gehrin,Maria Anna,15,1809,6,6,,NULL,unbekannt,Innsbruck__Innsbruck,unknown__unbekannt,wunde
+829,Fischer,Leonhard,52,1809,9,10,,NULL,bauer,Innsbruck__unbekannt,unknown__unbekannt,wunde
+830,Folchner,Veit,45,1809,10,16,,NULL,bauer,Innsbruck__Innsbruck,unknown__unbekannt,wunde
+831,Stech,Florian,35,1809,10,28,,NULL,unbekannt,Innsbruck__Gericht Nauders,unknown__unbekannt,wunde
+832,Haslwanter,Leopold,63,1810,3,8,,NULL,arbeiter,Innsbruck__unbekannt,unknown__unbekannt,wunde
+834,Knerle,Philipp,75,1809,4,14,,NULL,arbeiter,Innsbruck__unbekannt,Innsbruck__Berg Isel,wunde
+835,Schwab,Josef,25,1809,4,13,,NULL,unbekannt,Innsbruck__von der Kohlstatt,Innsbruck__Berg Isel,gefallen
+849,Stackler,Georg,32,1809,4,12,,NULL,unbekannt,Mieders__Neustift,Innsbruck__Berg Isel,erschossen
+850,Gleinser,Johann,28,1809,11,1,,NULL,bauer,Mieders__Neustift,Innsbruck__Berg Isel,kanone
+851,Markart,Josef,30,1809,11,1,,NULL,arbeiter,Mieders__Gossensaß,Innsbruck__Berg Isel,kanone
+852,Schett,Christian,34,1809,4,12,,NULL,arbeiter,Mieders__Trens,Innsbruck__Berg Isel,erschossen
+853,Hager,Donat,36,1809,4,12,,NULL,bauer,Mieders__Kreith,Innsbruck__Berg Isel,erschossen
+854,Fieler,Johann,50,1809,4,12,,NULL,bauer,Mieders__Telfes,Innsbruck__Berg Isel,nahkampf
+855,Jäger,Alois,16,1809,4,12,,NULL,bauer,Mieders__Telfes,Innsbruck__Berg Isel,nahkampf
+859,Stolz,Johann,60,1809,8,13,,NULL,unbekannt,Mieders__Telfes,Innsbruck__Berg Isel,gefallen
+937,Baldemair,Karl,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Steinach,unknown__Gries bei Steinach,erschossen
+938,Natter,Lorenz,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Steinach,Innsbruck__Berg Isel,erschossen
+939,Gogl,Josef,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Steinach,Innsbruck__Berg Isel,erschossen
+940,Simon,Gley,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Pfons,Innsbruck__Berg Isel,erschossen
+941,Hinterkirchner,Alois,22,1809,8,15,,NULL,unbekannt,Steinach__Matrei,Innsbruck__Berg Isel,wunde
+942,Lutz,Peter,,1809,11,1,,NULL,unbekannt,Steinach__Trins,unknown__Patschberg,gefallen
+943,Schafferer,Franz,50,1809,8,13,,NULL,unbekannt,Steinach__Navis,Innsbruck__Berg Isel,gefallen
+944,Egg,Josef,,1809,8,13,,NULL,unbekannt,Steinach__Obernberg,Innsbruck__Berg Isel,gefallen
+945,Auer,Melchior,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Schmirn,unknown__Gries bei Steinach,erschossen
+946,Eller,Johann,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Schmirn,Innsbruck__Berg Isel,erschossen
+947,Troger,Josef,,1809,11,7,,NULL,unbekannt,Steinach__Navis,Steinach__Matrei,erschossen
+948,Jenewein,Georg,,1809,NULL,NULL,,NULL,unbekannt,Steinach__Obernberg,Sterzing__Sterzing,gefallen
+949,Kerschdorfer,Georg,,1809,NULL,NULL,,NULL,unbekannt,"Steinach__Gries, LG Steinach",unknown__Gries bei Steinach,erschossen
+963,Marth,Angon,48,1810,2,16,,NULL,unbekannt,Steinach__Statz bei Matrei,unknown__unbekannt,wunde
