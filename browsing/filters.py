@@ -1,4 +1,6 @@
 import django_filters
+from places.models import Landgericht
+from persons.models import Todesart, Beruf
 
 django_filters.filters.LOOKUP_TYPES = [
     ('', '---------'),
@@ -18,4 +20,17 @@ django_filters.filters.LOOKUP_TYPES = [
 
 
 class PersonListFilter(django_filters.FilterSet):
-    name = django_filters.CharFilter(lookup_expr='icontains')
+    name = django_filters.CharFilter(lookup_expr='icontains', label="Nachname des Verstorbenen")
+    vorname = django_filters.CharFilter(lookup_expr='icontains', label="Vorname des Verstorbenen")
+    geburtsort__name = django_filters.CharFilter(
+        lookup_expr='icontains', label="Geburtsort des Verstorbenen")
+    sterbeort__name = django_filters.CharFilter(
+        lookup_expr='icontains', label="Sterbeort des Verstorbenen")
+    geburtsort__landgericht__name = django_filters.ModelMultipleChoiceFilter(
+        queryset=Landgericht.objects.all(), label="Landgericht des Geburtsortes")
+    sterbeort__landgericht__name = django_filters.ModelMultipleChoiceFilter(
+        queryset=Landgericht.objects.all(), label="Landgericht des Sterbeortes")
+    beruf__name = django_filters.ModelMultipleChoiceFilter(
+        queryset=Beruf.objects.all(), label="Berufsgruppe des Verstorbenen")
+    todesart__name = django_filters.ModelMultipleChoiceFilter(
+        queryset=Todesart.objects.all(), label="Todesart")

@@ -13,4 +13,22 @@
 {% endblock %}
 
 {% block customScripts %}
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script>
+
+var brithplaces = [{% for name in brithplaces %} "{{ name }}", {% endfor %}];
+var deathplaces = [{% for name in deathplaces %} "{{ name }}", {% endfor %}];
+
+    $(function() {
+        $("#id_geburtsort__name").autocomplete({
+            source:brithplaces
+        }); 
+    });
+
+    $(function() {
+        $("#id_sterbeort__name").autocomplete({
+            source:deathplaces
+        }); 
+    });
+</script>
 {% endblock %}
