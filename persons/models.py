@@ -2,6 +2,7 @@ from django.db import models
 from places.models import Place
 
 
+
 class Beruf(models.Model):
     name = models.CharField(blank=True, max_length=200, help_text="Beruf des Verstorbenen")
 

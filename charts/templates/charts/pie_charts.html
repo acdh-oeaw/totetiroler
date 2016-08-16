@@ -6,6 +6,7 @@
     <!--highcharts -->
         <script src="{% static 'charts/highcharts/highcharts.js' %}"></script>
         <script src="{% static 'charts/highcharts/exporting.js' %}"></script>
+        <script src="{% static 'charts/highcharts/highcharts-3d.js' %}"></script>
     <!--highcharts END -->
 {% endblock %}
 {% block content %}
@@ -13,7 +14,8 @@
     <div class="panel-heading"><h1>Bitte wählen Sie</h1><br/>
         <select id="chartselector" class="form-control">
                 <option value="---">---</option>
-                <option value="{% url 'charts:test_json_pie' %}">LASK4EVER</option>
+                <option value="{% url 'charts:professions' %}">Gefallene nach Beruf</option>
+                <option value="{% url 'charts:deaths' %}">Gefallene nach Todesart</option>
         </select>
     </div>
     <div class="panel-body">
