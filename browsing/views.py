@@ -1,3 +1,4 @@
+import json
 from django_tables2 import SingleTableView, RequestConfig
 from persons.models import Person
 from places.models import Place
@@ -50,4 +51,40 @@ class PersonListView(GenericListView):
         for x in Place.objects.filter(pk__in=brith):
             brithplaces.append(x.name)
         context["brithplaces"] = set(brithplaces)
+        return context
+
+
+class LocatePersons(GenericListView):
+    model = Person
+    table_class = PersonTable
+    template_name = 'browsing/person_map.html'
+    filter_class = PersonListFilter
+    formhelper_class = GenericFilterFormHelper
+
+    def get_queryset(self, **kwargs):
+        qs = Person.objects.exclude(geburtsort__lat__isnull=True)
+        self.filter = self.filter_class(self.request.GET, queryset=qs)
+        self.filter.form.helper = self.formhelper_class()
+        return self.filter.qs
+
+    def get_context_data(self, **kwargs):
+        context = super(GenericListView, self).get_context_data()
+        context[self.context_filter_name] = self.filter
+        lst_json = []
+        persons = PersonListFilter(
+            self.request.GET,
+            queryset=Person.objects.exclude(geburtsort__lat__isnull=True))
+        for x in persons:
+            if x.geburtsort.lat != "":
+                r = {"geometry": {"type": "Point", "coordinates": [
+                    float(x.geburtsort.lat),
+                    float(x.geburtsort.lng)
+                ]},
+                    "type": "Feature",
+                    "properties": {
+                    "popupContent": "<strong>{}</strong>".format(x.name)
+                },
+                    "id": x.pk}
+                lst_json.append(r)
+        context["GeoJson"] = json.dumps(lst_json)
         return context
