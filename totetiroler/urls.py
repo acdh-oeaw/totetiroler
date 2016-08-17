@@ -4,7 +4,7 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^', include('webpage.urls', namespace='webpage')),
-    url(r'^account/', include('account.urls', namespace='account')),
+    url(r'^accounts/', include('account.urls', namespace='account')),
     url(r'^places/', include('places.urls', namespace='places')),
     url(r'^persons/', include('persons.urls', namespace='persons')),
     url(r'^datamodel/', include('django_spaghetti.urls', namespace='datamodel')),

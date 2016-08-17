@@ -1,4 +1,3 @@
-from django.shortcuts import render
 from django.views import generic
 from django.views.generic.detail import DetailView
 
@@ -18,7 +17,6 @@ class PersonDetailView(DetailView):
 
     def get_context_data(self, **kwargs):
         context = super(PersonDetailView, self).get_context_data(**kwargs)
-        current_object = self.object
         return context
 
 # Create your views here.

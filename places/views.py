@@ -1,5 +1,7 @@
 import requests
 import json
+from django.contrib.auth.decorators import login_required
+from django.utils.decorators import method_decorator
 from django.shortcuts import render, redirect, get_object_or_404
 from django.views import generic
 from django.views.generic.edit import DeleteView
@@ -9,6 +11,7 @@ from .models import Place, AlternativeName
 from .forms import PlaceForm, AlternativeNameForm
 
 
+@login_required
 def create_place(request):
     if request.method == "POST":
         form = PlaceForm(request.POST)
@@ -30,6 +33,7 @@ class AlternativeNameListView(generic.ListView):
         return AlternativeName.objects.all()
 
 
+@login_required
 def create_alternativename(request):
     if request.method == "POST":
         form = AlternativeNameForm(request.POST)
@@ -43,6 +47,7 @@ def create_alternativename(request):
         return render(request, 'places/edit_alternativenames.html', {'form': form})
 
 
+@login_required
 def edit_alternativename(request, pk):
     instance = get_object_or_404(AlternativeName, id=pk)
     if request.method == "POST":
@@ -65,6 +70,10 @@ class AlternativeNameDelete(DeleteView):
     template_name = 'webpage/confirm_delete.html'
     success_url = reverse_lazy('places:alternativename_list')
 
+    @method_decorator(login_required)
+    def dispatch(self, *args, **kwargs):
+        return super(AlternativeNameDelete, self).dispatch(*args, **kwargs)
+
 
 class PlaceListView(generic.ListView):
     template_name = "places/list_places.html"
@@ -74,6 +83,7 @@ class PlaceListView(generic.ListView):
         return Place.objects.all()
 
 
+@login_required
 def edit_place(request, pk):
     instance = Place.objects.get(id=pk)
     username = "&username=digitalarchiv"
@@ -106,3 +116,7 @@ class PlaceDelete(DeleteView):
     model = Place
     template_name = 'webpage/confirm_delete.html'
     success_url = reverse_lazy('places:place_list')
+
+    @method_decorator(login_required)
+    def dispatch(self, *args, **kwargs):
+        return super(PlaceDelete, self).dispatch(*args, **kwargs)
