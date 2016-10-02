@@ -11,3 +11,4 @@ __pycache__/
 /playAndTry.ipynb
 /totetiroler/db.sqlite3
 /Untitled.ipynb
+/totetiroler/settings/dev_secret.py

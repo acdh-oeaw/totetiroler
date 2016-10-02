@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 """
 
 import os
+from django.core.urlresolvers import reverse_lazy
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(os.path.join(__file__, '../'))))
@@ -30,6 +31,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'rest_framework',
     'django_spaghetti',
+    'social.apps.django_app.default',
     'webpage',
     'account',
     'places',
@@ -95,6 +97,9 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+AUTHENTICATION_BACKENDS = (
+    'django.contrib.auth.backends.ModelBackend', 'social.backends.facebook.Facebook2OAuth2',
+    'social.backends.google.GoogleOAuth2',)
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.9/topics/i18n/
@@ -112,7 +117,7 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
-LOGIN_REDIRECT_URL = "../../"
+LOGIN_REDIRECT_URL = reverse_lazy('webpage:start')
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles/')
 STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
